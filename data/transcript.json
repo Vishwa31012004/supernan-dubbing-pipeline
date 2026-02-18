@@ -1,0 +1,3631 @@
+{
+  "source_video": "data/input_video.mp4",
+  "audio_file": "data/extracted_audio.wav",
+  "source_language": "kn",
+  "output_language": "en",
+  "full_text": " Now lets see how to massage or massage the kids First we need to prepare the ingredients for the massage Usually oil is required You can ask the person who uses oil Don't use too much oil, if you have little oil, then use less oil You can use a cloth to wipe the oil on public Earth Don't allow us to massage from our job As there is very friendly treatment We should shut the door and be safe For that we take a cloth and massage the baby on the bed. First you have to know when to massage the baby. If the baby is playing with the toy, then it will not like it. You have to feed the baby and give it enough time to rest. After that you have to massage the baby. If the baby is playing with the toy, then it will not like it. After that you have to massage the baby. If you start the massage 15 minutes before the bath, then you can wait for the baby to rest. Then you have to know how the baby will follow the massage. Some people start from head to toe and some people start from leg. So you have to listen to the baby and follow the massage. In summer you have to use less oil and in other seasons you have to use less oil. Now you have to massage the baby from inside out. Don't press the baby too much. Start from head to toe and slowly massage the head. After that you have to massage the baby for at least 2-3 minutes. I will show you the massage in a short time. You have to give enough time to rest and massage the baby. Then massage the head. Now massage the chest. After that you can massage the chest. After that you have to massage the arms. Massage the arms and then massage the baby. Now I will show you the massage. Massage the arms and legs. Massage the legs and legs. Massage the legs and legs. Massage the legs and legs. After that massage the belly. If you have young children, you can massage the belly. You can massage the belly and massage the belly. If you have young children, you can massage the belly. After that you can massage the belly. After that you can massage the belly. Now you have to massage the belly for at least 15 minutes. If you massage the belly for less time, it will not be useful. Don't massage the belly for more than half an hour. Massage the belly. You shouldidesn't to get better results in the long term. Ma scary many more times then when you also get good results from the sythe. Apply massage with a lot of care and a lot of patience. This will also help the maturity of the child. This is how I massage the belly massage that you too saw in the last video. Now you all have told me how to massage the belly. what you have to do is you have to make a video and share it with us what you have to know in that video is how you massage so you have to take a lamp in your house and you have to make a stroke one by one you have to record it you don't have to use oil you don't have to use oil but you have to do it in the front and back how you massage the back of the lamp make a clear and neat video and share it with us what you do in the morning",
+  "model_used": "medium",
+  "translation_mode": true,
+  "total_segments": 68,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 4.88,
+      "text": "Now lets see how to massage or massage the kids",
+      "words": [
+        {
+          "word": "Now",
+          "start": 0.0,
+          "end": 0.94
+        },
+        {
+          "word": "lets",
+          "start": 0.94,
+          "end": 1.96
+        },
+        {
+          "word": "see",
+          "start": 1.96,
+          "end": 1.96
+        },
+        {
+          "word": "how",
+          "start": 1.96,
+          "end": 2.44
+        },
+        {
+          "word": "to",
+          "start": 2.44,
+          "end": 2.5
+        },
+        {
+          "word": "massage",
+          "start": 2.5,
+          "end": 3.1
+        },
+        {
+          "word": "or",
+          "start": 3.1,
+          "end": 3.12
+        },
+        {
+          "word": "massage",
+          "start": 3.12,
+          "end": 4.88
+        },
+        {
+          "word": "the",
+          "start": 4.88,
+          "end": 4.88
+        },
+        {
+          "word": "kids",
+          "start": 4.88,
+          "end": 4.88
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 5.48,
+      "end": 11.26,
+      "text": "First we need to prepare the ingredients for the massage",
+      "words": [
+        {
+          "word": "First",
+          "start": 5.48,
+          "end": 7.1
+        },
+        {
+          "word": "we",
+          "start": 7.1,
+          "end": 8.56
+        },
+        {
+          "word": "need",
+          "start": 8.56,
+          "end": 8.6
+        },
+        {
+          "word": "to",
+          "start": 8.6,
+          "end": 10.46
+        },
+        {
+          "word": "prepare",
+          "start": 10.46,
+          "end": 11.26
+        },
+        {
+          "word": "the",
+          "start": 11.26,
+          "end": 11.26
+        },
+        {
+          "word": "ingredients",
+          "start": 11.26,
+          "end": 11.26
+        },
+        {
+          "word": "for",
+          "start": 11.26,
+          "end": 11.26
+        },
+        {
+          "word": "the",
+          "start": 11.26,
+          "end": 11.26
+        },
+        {
+          "word": "massage",
+          "start": 11.26,
+          "end": 11.26
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 11.26,
+      "end": 13.94,
+      "text": "Usually oil is required",
+      "words": [
+        {
+          "word": "Usually",
+          "start": 11.26,
+          "end": 12.86
+        },
+        {
+          "word": "oil",
+          "start": 12.86,
+          "end": 13.18
+        },
+        {
+          "word": "is",
+          "start": 13.18,
+          "end": 13.18
+        },
+        {
+          "word": "required",
+          "start": 13.18,
+          "end": 13.94
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.94,
+      "end": 16.08,
+      "text": "You can ask the person who uses oil",
+      "words": [
+        {
+          "word": "You",
+          "start": 13.94,
+          "end": 14.12
+        },
+        {
+          "word": "can",
+          "start": 14.12,
+          "end": 14.12
+        },
+        {
+          "word": "ask",
+          "start": 14.12,
+          "end": 14.12
+        },
+        {
+          "word": "the",
+          "start": 14.12,
+          "end": 14.12
+        },
+        {
+          "word": "person",
+          "start": 14.12,
+          "end": 14.64
+        },
+        {
+          "word": "who",
+          "start": 14.64,
+          "end": 15.24
+        },
+        {
+          "word": "uses",
+          "start": 15.24,
+          "end": 15.98
+        },
+        {
+          "word": "oil",
+          "start": 15.98,
+          "end": 16.08
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 17.76,
+      "end": 25.54,
+      "text": "Don't use too much oil, if you have little oil, then use less oil",
+      "words": [
+        {
+          "word": "Don't",
+          "start": 17.619999999999997,
+          "end": 18.22
+        },
+        {
+          "word": "use",
+          "start": 18.22,
+          "end": 18.22
+        },
+        {
+          "word": "too",
+          "start": 18.22,
+          "end": 18.84
+        },
+        {
+          "word": "much",
+          "start": 18.84,
+          "end": 19.24
+        },
+        {
+          "word": "oil,",
+          "start": 19.24,
+          "end": 19.24
+        },
+        {
+          "word": "if",
+          "start": 19.76,
+          "end": 19.78
+        },
+        {
+          "word": "you",
+          "start": 19.78,
+          "end": 20.46
+        },
+        {
+          "word": "have",
+          "start": 20.46,
+          "end": 20.46
+        },
+        {
+          "word": "little",
+          "start": 20.46,
+          "end": 20.56
+        },
+        {
+          "word": "oil,",
+          "start": 20.56,
+          "end": 21.04
+        },
+        {
+          "word": "then",
+          "start": 21.5,
+          "end": 21.78
+        },
+        {
+          "word": "use",
+          "start": 21.78,
+          "end": 21.78
+        },
+        {
+          "word": "less",
+          "start": 21.78,
+          "end": 22.96
+        },
+        {
+          "word": "oil",
+          "start": 22.96,
+          "end": 25.54
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 25.54,
+      "end": 33.74,
+      "text": "You can use a cloth to wipe the oil on public Earth",
+      "words": [
+        {
+          "word": "You",
+          "start": 25.54,
+          "end": 26.86
+        },
+        {
+          "word": "can",
+          "start": 26.86,
+          "end": 26.86
+        },
+        {
+          "word": "use",
+          "start": 26.86,
+          "end": 26.86
+        },
+        {
+          "word": "a",
+          "start": 26.86,
+          "end": 26.92
+        },
+        {
+          "word": "cloth",
+          "start": 26.92,
+          "end": 27.58
+        },
+        {
+          "word": "to",
+          "start": 27.58,
+          "end": 27.66
+        },
+        {
+          "word": "wipe",
+          "start": 27.66,
+          "end": 27.66
+        },
+        {
+          "word": "the",
+          "start": 27.66,
+          "end": 28.94
+        },
+        {
+          "word": "oil",
+          "start": 28.94,
+          "end": 28.98
+        },
+        {
+          "word": "on",
+          "start": 28.98,
+          "end": 31.94
+        },
+        {
+          "word": "public",
+          "start": 31.94,
+          "end": 31.94
+        },
+        {
+          "word": "Earth",
+          "start": 31.94,
+          "end": 33.74
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 38.08,
+      "end": 42.4,
+      "text": "Don't allow us to massage from our job",
+      "words": [
+        {
+          "word": "Don't",
+          "start": 38.08,
+          "end": 39.48
+        },
+        {
+          "word": "allow",
+          "start": 39.48,
+          "end": 39.52
+        },
+        {
+          "word": "us",
+          "start": 39.52,
+          "end": 40.98
+        },
+        {
+          "word": "to",
+          "start": 40.98,
+          "end": 42.4
+        },
+        {
+          "word": "massage",
+          "start": 42.4,
+          "end": 42.4
+        },
+        {
+          "word": "from",
+          "start": 42.4,
+          "end": 42.4
+        },
+        {
+          "word": "our",
+          "start": 42.4,
+          "end": 42.4
+        },
+        {
+          "word": "job",
+          "start": 42.4,
+          "end": 42.4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 42.4,
+      "end": 45.86,
+      "text": "As there is very friendly treatment",
+      "words": [
+        {
+          "word": "As",
+          "start": 42.4,
+          "end": 43.26
+        },
+        {
+          "word": "there",
+          "start": 43.26,
+          "end": 44.06
+        },
+        {
+          "word": "is",
+          "start": 44.06,
+          "end": 45.84
+        },
+        {
+          "word": "very",
+          "start": 45.84,
+          "end": 45.84
+        },
+        {
+          "word": "friendly",
+          "start": 45.84,
+          "end": 45.84
+        },
+        {
+          "word": "treatment",
+          "start": 45.84,
+          "end": 45.86
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 45.86,
+      "end": 51.04,
+      "text": "We should shut the door and be safe",
+      "words": [
+        {
+          "word": "We",
+          "start": 45.86,
+          "end": 46.32
+        },
+        {
+          "word": "should",
+          "start": 46.32,
+          "end": 46.4
+        },
+        {
+          "word": "shut",
+          "start": 46.4,
+          "end": 46.4
+        },
+        {
+          "word": "the",
+          "start": 46.4,
+          "end": 46.6
+        },
+        {
+          "word": "door",
+          "start": 46.6,
+          "end": 49.04
+        },
+        {
+          "word": "and",
+          "start": 49.04,
+          "end": 49.34
+        },
+        {
+          "word": "be",
+          "start": 49.34,
+          "end": 50.86
+        },
+        {
+          "word": "safe",
+          "start": 50.86,
+          "end": 51.04
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 51.04,
+      "end": 57.58,
+      "text": "For that we take a cloth and massage the baby on the bed.",
+      "words": [
+        {
+          "word": "For",
+          "start": 51.04,
+          "end": 51.68
+        },
+        {
+          "word": "that",
+          "start": 51.68,
+          "end": 53.04
+        },
+        {
+          "word": "we",
+          "start": 53.04,
+          "end": 53.36
+        },
+        {
+          "word": "take",
+          "start": 53.36,
+          "end": 53.74
+        },
+        {
+          "word": "a",
+          "start": 53.74,
+          "end": 54.02
+        },
+        {
+          "word": "cloth",
+          "start": 54.02,
+          "end": 54.4
+        },
+        {
+          "word": "and",
+          "start": 54.4,
+          "end": 55.88
+        },
+        {
+          "word": "massage",
+          "start": 55.88,
+          "end": 56.56
+        },
+        {
+          "word": "the",
+          "start": 56.56,
+          "end": 56.76
+        },
+        {
+          "word": "baby",
+          "start": 56.76,
+          "end": 56.94
+        },
+        {
+          "word": "on",
+          "start": 56.94,
+          "end": 57.58
+        },
+        {
+          "word": "the",
+          "start": 57.58,
+          "end": 57.58
+        },
+        {
+          "word": "bed.",
+          "start": 57.58,
+          "end": 57.58
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 58.9,
+      "end": 62.58,
+      "text": "First you have to know when to massage the baby.",
+      "words": [
+        {
+          "word": "First",
+          "start": 58.9,
+          "end": 59.3
+        },
+        {
+          "word": "you",
+          "start": 59.3,
+          "end": 60.26
+        },
+        {
+          "word": "have",
+          "start": 60.26,
+          "end": 60.26
+        },
+        {
+          "word": "to",
+          "start": 60.26,
+          "end": 60.26
+        },
+        {
+          "word": "know",
+          "start": 60.26,
+          "end": 60.26
+        },
+        {
+          "word": "when",
+          "start": 60.26,
+          "end": 60.86
+        },
+        {
+          "word": "to",
+          "start": 60.86,
+          "end": 61.96
+        },
+        {
+          "word": "massage",
+          "start": 61.96,
+          "end": 62.14
+        },
+        {
+          "word": "the",
+          "start": 62.14,
+          "end": 62.58
+        },
+        {
+          "word": "baby.",
+          "start": 62.58,
+          "end": 62.58
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 62.86,
+      "end": 66.76,
+      "text": "If the baby is playing with the toy, then it will not like it.",
+      "words": [
+        {
+          "word": "If",
+          "start": 62.86,
+          "end": 62.94
+        },
+        {
+          "word": "the",
+          "start": 62.94,
+          "end": 62.94
+        },
+        {
+          "word": "baby",
+          "start": 62.94,
+          "end": 63.26
+        },
+        {
+          "word": "is",
+          "start": 63.26,
+          "end": 63.36
+        },
+        {
+          "word": "playing",
+          "start": 63.36,
+          "end": 64.24
+        },
+        {
+          "word": "with",
+          "start": 64.24,
+          "end": 64.46
+        },
+        {
+          "word": "the",
+          "start": 64.46,
+          "end": 64.46
+        },
+        {
+          "word": "toy,",
+          "start": 64.46,
+          "end": 64.84
+        },
+        {
+          "word": "then",
+          "start": 65.1,
+          "end": 65.88
+        },
+        {
+          "word": "it",
+          "start": 65.88,
+          "end": 65.88
+        },
+        {
+          "word": "will",
+          "start": 65.88,
+          "end": 65.88
+        },
+        {
+          "word": "not",
+          "start": 65.88,
+          "end": 65.88
+        },
+        {
+          "word": "like",
+          "start": 65.88,
+          "end": 66.76
+        },
+        {
+          "word": "it.",
+          "start": 66.76,
+          "end": 66.76
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 67.3,
+      "end": 71.34,
+      "text": "You have to feed the baby and give it enough time to rest.",
+      "words": [
+        {
+          "word": "You",
+          "start": 67.3,
+          "end": 67.76
+        },
+        {
+          "word": "have",
+          "start": 67.76,
+          "end": 67.76
+        },
+        {
+          "word": "to",
+          "start": 67.76,
+          "end": 67.76
+        },
+        {
+          "word": "feed",
+          "start": 67.76,
+          "end": 68.18
+        },
+        {
+          "word": "the",
+          "start": 68.18,
+          "end": 68.46
+        },
+        {
+          "word": "baby",
+          "start": 68.46,
+          "end": 68.46
+        },
+        {
+          "word": "and",
+          "start": 68.46,
+          "end": 69.18
+        },
+        {
+          "word": "give",
+          "start": 69.18,
+          "end": 69.54
+        },
+        {
+          "word": "it",
+          "start": 69.54,
+          "end": 70.14
+        },
+        {
+          "word": "enough",
+          "start": 70.14,
+          "end": 70.24
+        },
+        {
+          "word": "time",
+          "start": 70.24,
+          "end": 70.72
+        },
+        {
+          "word": "to",
+          "start": 70.72,
+          "end": 71.34
+        },
+        {
+          "word": "rest.",
+          "start": 71.34,
+          "end": 71.34
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 71.34,
+      "end": 73.46,
+      "text": "After that you have to massage the baby.",
+      "words": [
+        {
+          "word": "After",
+          "start": 71.34,
+          "end": 71.84
+        },
+        {
+          "word": "that",
+          "start": 71.84,
+          "end": 71.84
+        },
+        {
+          "word": "you",
+          "start": 71.84,
+          "end": 72.04
+        },
+        {
+          "word": "have",
+          "start": 72.04,
+          "end": 72.16
+        },
+        {
+          "word": "to",
+          "start": 72.16,
+          "end": 73.06
+        },
+        {
+          "word": "massage",
+          "start": 73.06,
+          "end": 73.06
+        },
+        {
+          "word": "the",
+          "start": 73.06,
+          "end": 73.46
+        },
+        {
+          "word": "baby.",
+          "start": 73.46,
+          "end": 73.46
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 73.46,
+      "end": 78.4,
+      "text": "If the baby is playing with the toy, then it will not like it.",
+      "words": [
+        {
+          "word": "If",
+          "start": 73.46,
+          "end": 74.12
+        },
+        {
+          "word": "the",
+          "start": 74.12,
+          "end": 74.26
+        },
+        {
+          "word": "baby",
+          "start": 74.26,
+          "end": 74.56
+        },
+        {
+          "word": "is",
+          "start": 74.56,
+          "end": 74.84
+        },
+        {
+          "word": "playing",
+          "start": 74.84,
+          "end": 75.08
+        },
+        {
+          "word": "with",
+          "start": 75.08,
+          "end": 76.06
+        },
+        {
+          "word": "the",
+          "start": 76.06,
+          "end": 76.06
+        },
+        {
+          "word": "toy,",
+          "start": 76.06,
+          "end": 76.06
+        },
+        {
+          "word": "then",
+          "start": 76.86,
+          "end": 77.78
+        },
+        {
+          "word": "it",
+          "start": 77.78,
+          "end": 78.16
+        },
+        {
+          "word": "will",
+          "start": 78.16,
+          "end": 78.4
+        },
+        {
+          "word": "not",
+          "start": 78.4,
+          "end": 78.4
+        },
+        {
+          "word": "like",
+          "start": 78.4,
+          "end": 78.4
+        },
+        {
+          "word": "it.",
+          "start": 78.4,
+          "end": 78.4
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 78.4,
+      "end": 81.96,
+      "text": "After that you have to massage the baby.",
+      "words": [
+        {
+          "word": "After",
+          "start": 78.4,
+          "end": 78.72
+        },
+        {
+          "word": "that",
+          "start": 78.72,
+          "end": 79.4
+        },
+        {
+          "word": "you",
+          "start": 79.4,
+          "end": 80.12
+        },
+        {
+          "word": "have",
+          "start": 80.12,
+          "end": 81.96
+        },
+        {
+          "word": "to",
+          "start": 81.96,
+          "end": 81.96
+        },
+        {
+          "word": "massage",
+          "start": 81.96,
+          "end": 81.96
+        },
+        {
+          "word": "the",
+          "start": 81.96,
+          "end": 81.96
+        },
+        {
+          "word": "baby.",
+          "start": 81.96,
+          "end": 81.96
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 81.96,
+      "end": 91.26,
+      "text": "If you start the massage 15 minutes before the bath, then you can wait for the baby to rest.",
+      "words": [
+        {
+          "word": "If",
+          "start": 81.96,
+          "end": 82.9
+        },
+        {
+          "word": "you",
+          "start": 82.9,
+          "end": 83.58
+        },
+        {
+          "word": "start",
+          "start": 83.58,
+          "end": 83.58
+        },
+        {
+          "word": "the",
+          "start": 83.58,
+          "end": 83.58
+        },
+        {
+          "word": "massage",
+          "start": 83.58,
+          "end": 83.58
+        },
+        {
+          "word": "15",
+          "start": 83.58,
+          "end": 83.98
+        },
+        {
+          "word": "minutes",
+          "start": 83.98,
+          "end": 85.72
+        },
+        {
+          "word": "before",
+          "start": 85.72,
+          "end": 86.12
+        },
+        {
+          "word": "the",
+          "start": 86.12,
+          "end": 86.12
+        },
+        {
+          "word": "bath,",
+          "start": 86.12,
+          "end": 86.12
+        },
+        {
+          "word": "then",
+          "start": 87.76,
+          "end": 89.04
+        },
+        {
+          "word": "you",
+          "start": 89.04,
+          "end": 89.04
+        },
+        {
+          "word": "can",
+          "start": 89.04,
+          "end": 90.06
+        },
+        {
+          "word": "wait",
+          "start": 90.06,
+          "end": 90.06
+        },
+        {
+          "word": "for",
+          "start": 90.06,
+          "end": 90.36
+        },
+        {
+          "word": "the",
+          "start": 90.36,
+          "end": 90.36
+        },
+        {
+          "word": "baby",
+          "start": 90.36,
+          "end": 90.36
+        },
+        {
+          "word": "to",
+          "start": 90.36,
+          "end": 91.26
+        },
+        {
+          "word": "rest.",
+          "start": 91.26,
+          "end": 91.26
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 92.36,
+      "end": 97.06,
+      "text": "Then you have to know how the baby will follow the massage.",
+      "words": [
+        {
+          "word": "Then",
+          "start": 92.36,
+          "end": 92.86
+        },
+        {
+          "word": "you",
+          "start": 92.86,
+          "end": 93.46
+        },
+        {
+          "word": "have",
+          "start": 93.46,
+          "end": 93.78
+        },
+        {
+          "word": "to",
+          "start": 93.78,
+          "end": 94.08
+        },
+        {
+          "word": "know",
+          "start": 94.08,
+          "end": 94.08
+        },
+        {
+          "word": "how",
+          "start": 94.08,
+          "end": 94.12
+        },
+        {
+          "word": "the",
+          "start": 94.12,
+          "end": 94.44
+        },
+        {
+          "word": "baby",
+          "start": 94.44,
+          "end": 94.84
+        },
+        {
+          "word": "will",
+          "start": 94.84,
+          "end": 94.92
+        },
+        {
+          "word": "follow",
+          "start": 94.92,
+          "end": 96.3
+        },
+        {
+          "word": "the",
+          "start": 96.3,
+          "end": 97.06
+        },
+        {
+          "word": "massage.",
+          "start": 97.06,
+          "end": 97.06
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 97.2,
+      "end": 104.72,
+      "text": "Some people start from head to toe and some people start from leg.",
+      "words": [
+        {
+          "word": "Some",
+          "start": 97.2,
+          "end": 97.54
+        },
+        {
+          "word": "people",
+          "start": 97.54,
+          "end": 97.86
+        },
+        {
+          "word": "start",
+          "start": 97.86,
+          "end": 97.94
+        },
+        {
+          "word": "from",
+          "start": 97.94,
+          "end": 97.94
+        },
+        {
+          "word": "head",
+          "start": 97.94,
+          "end": 98.32
+        },
+        {
+          "word": "to",
+          "start": 98.32,
+          "end": 99.46
+        },
+        {
+          "word": "toe",
+          "start": 99.46,
+          "end": 99.9
+        },
+        {
+          "word": "and",
+          "start": 99.9,
+          "end": 102.0
+        },
+        {
+          "word": "some",
+          "start": 102.0,
+          "end": 102.6
+        },
+        {
+          "word": "people",
+          "start": 102.6,
+          "end": 103.24
+        },
+        {
+          "word": "start",
+          "start": 103.24,
+          "end": 103.36
+        },
+        {
+          "word": "from",
+          "start": 103.36,
+          "end": 104.72
+        },
+        {
+          "word": "leg.",
+          "start": 104.72,
+          "end": 104.72
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 106.39999999999999,
+      "end": 110.6,
+      "text": "So you have to listen to the baby and follow the massage.",
+      "words": [
+        {
+          "word": "So",
+          "start": 106.39999999999999,
+          "end": 107.8
+        },
+        {
+          "word": "you",
+          "start": 107.8,
+          "end": 108.18
+        },
+        {
+          "word": "have",
+          "start": 108.18,
+          "end": 108.18
+        },
+        {
+          "word": "to",
+          "start": 108.18,
+          "end": 108.18
+        },
+        {
+          "word": "listen",
+          "start": 108.18,
+          "end": 108.18
+        },
+        {
+          "word": "to",
+          "start": 108.18,
+          "end": 108.18
+        },
+        {
+          "word": "the",
+          "start": 108.18,
+          "end": 108.3
+        },
+        {
+          "word": "baby",
+          "start": 108.3,
+          "end": 109.42
+        },
+        {
+          "word": "and",
+          "start": 109.42,
+          "end": 109.42
+        },
+        {
+          "word": "follow",
+          "start": 109.42,
+          "end": 110.04
+        },
+        {
+          "word": "the",
+          "start": 110.04,
+          "end": 110.6
+        },
+        {
+          "word": "massage.",
+          "start": 110.6,
+          "end": 110.6
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 111.16,
+      "end": 120.44,
+      "text": "In summer you have to use less oil and in other seasons you have to use less oil.",
+      "words": [
+        {
+          "word": "In",
+          "start": 111.16,
+          "end": 112.56
+        },
+        {
+          "word": "summer",
+          "start": 112.56,
+          "end": 113.14
+        },
+        {
+          "word": "you",
+          "start": 113.14,
+          "end": 113.86
+        },
+        {
+          "word": "have",
+          "start": 113.86,
+          "end": 114.94
+        },
+        {
+          "word": "to",
+          "start": 114.94,
+          "end": 114.94
+        },
+        {
+          "word": "use",
+          "start": 114.94,
+          "end": 114.94
+        },
+        {
+          "word": "less",
+          "start": 114.94,
+          "end": 114.94
+        },
+        {
+          "word": "oil",
+          "start": 114.94,
+          "end": 114.94
+        },
+        {
+          "word": "and",
+          "start": 114.94,
+          "end": 115.1
+        },
+        {
+          "word": "in",
+          "start": 115.1,
+          "end": 115.1
+        },
+        {
+          "word": "other",
+          "start": 115.1,
+          "end": 115.44
+        },
+        {
+          "word": "seasons",
+          "start": 115.44,
+          "end": 116.5
+        },
+        {
+          "word": "you",
+          "start": 116.5,
+          "end": 117.38
+        },
+        {
+          "word": "have",
+          "start": 117.38,
+          "end": 117.38
+        },
+        {
+          "word": "to",
+          "start": 117.38,
+          "end": 119.3
+        },
+        {
+          "word": "use",
+          "start": 119.3,
+          "end": 119.3
+        },
+        {
+          "word": "less",
+          "start": 119.3,
+          "end": 120.28
+        },
+        {
+          "word": "oil.",
+          "start": 120.28,
+          "end": 120.44
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 121.44,
+      "end": 126.8,
+      "text": "Now you have to massage the baby from inside out.",
+      "words": [
+        {
+          "word": "Now",
+          "start": 121.44,
+          "end": 122.46
+        },
+        {
+          "word": "you",
+          "start": 122.46,
+          "end": 123.52
+        },
+        {
+          "word": "have",
+          "start": 123.52,
+          "end": 123.52
+        },
+        {
+          "word": "to",
+          "start": 123.52,
+          "end": 123.52
+        },
+        {
+          "word": "massage",
+          "start": 123.52,
+          "end": 124.22
+        },
+        {
+          "word": "the",
+          "start": 124.22,
+          "end": 124.96
+        },
+        {
+          "word": "baby",
+          "start": 124.96,
+          "end": 124.96
+        },
+        {
+          "word": "from",
+          "start": 124.96,
+          "end": 124.96
+        },
+        {
+          "word": "inside",
+          "start": 124.96,
+          "end": 125.36
+        },
+        {
+          "word": "out.",
+          "start": 125.36,
+          "end": 126.8
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 127.72,
+      "end": 131.24,
+      "text": "Don't press the baby too much.",
+      "words": [
+        {
+          "word": "Don't",
+          "start": 127.72,
+          "end": 127.72
+        },
+        {
+          "word": "press",
+          "start": 127.72,
+          "end": 129.36
+        },
+        {
+          "word": "the",
+          "start": 129.36,
+          "end": 129.46
+        },
+        {
+          "word": "baby",
+          "start": 129.46,
+          "end": 129.46
+        },
+        {
+          "word": "too",
+          "start": 129.46,
+          "end": 131.24
+        },
+        {
+          "word": "much.",
+          "start": 131.24,
+          "end": 131.24
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 131.72,
+      "end": 138.14,
+      "text": "Start from head to toe and slowly massage the head.",
+      "words": [
+        {
+          "word": "Start",
+          "start": 131.72,
+          "end": 131.9
+        },
+        {
+          "word": "from",
+          "start": 131.9,
+          "end": 133.66
+        },
+        {
+          "word": "head",
+          "start": 133.66,
+          "end": 134.32
+        },
+        {
+          "word": "to",
+          "start": 134.32,
+          "end": 135.4
+        },
+        {
+          "word": "toe",
+          "start": 135.4,
+          "end": 135.4
+        },
+        {
+          "word": "and",
+          "start": 135.4,
+          "end": 135.9
+        },
+        {
+          "word": "slowly",
+          "start": 135.9,
+          "end": 135.94
+        },
+        {
+          "word": "massage",
+          "start": 135.94,
+          "end": 138.14
+        },
+        {
+          "word": "the",
+          "start": 138.14,
+          "end": 138.14
+        },
+        {
+          "word": "head.",
+          "start": 138.14,
+          "end": 138.14
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 139.18,
+      "end": 144.38,
+      "text": "After that you have to massage the baby for at least 2-3 minutes.",
+      "words": [
+        {
+          "word": "After",
+          "start": 139.18,
+          "end": 139.42
+        },
+        {
+          "word": "that",
+          "start": 139.42,
+          "end": 141.2
+        },
+        {
+          "word": "you",
+          "start": 141.2,
+          "end": 141.82
+        },
+        {
+          "word": "have",
+          "start": 141.82,
+          "end": 142.24
+        },
+        {
+          "word": "to",
+          "start": 142.24,
+          "end": 142.24
+        },
+        {
+          "word": "massage",
+          "start": 142.24,
+          "end": 142.24
+        },
+        {
+          "word": "the",
+          "start": 142.24,
+          "end": 142.26
+        },
+        {
+          "word": "baby",
+          "start": 142.26,
+          "end": 142.26
+        },
+        {
+          "word": "for",
+          "start": 142.26,
+          "end": 142.26
+        },
+        {
+          "word": "at",
+          "start": 142.26,
+          "end": 142.26
+        },
+        {
+          "word": "least",
+          "start": 142.26,
+          "end": 143.18
+        },
+        {
+          "word": "2",
+          "start": 143.18,
+          "end": 143.38
+        },
+        {
+          "word": "-3",
+          "start": 143.38,
+          "end": 143.52
+        },
+        {
+          "word": "minutes.",
+          "start": 143.52,
+          "end": 144.38
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 144.56,
+      "end": 147.5,
+      "text": "I will show you the massage in a short time.",
+      "words": [
+        {
+          "word": "I",
+          "start": 144.56,
+          "end": 144.84
+        },
+        {
+          "word": "will",
+          "start": 144.84,
+          "end": 144.84
+        },
+        {
+          "word": "show",
+          "start": 144.84,
+          "end": 144.84
+        },
+        {
+          "word": "you",
+          "start": 144.84,
+          "end": 144.88
+        },
+        {
+          "word": "the",
+          "start": 144.88,
+          "end": 144.88
+        },
+        {
+          "word": "massage",
+          "start": 144.88,
+          "end": 144.98
+        },
+        {
+          "word": "in",
+          "start": 144.98,
+          "end": 144.98
+        },
+        {
+          "word": "a",
+          "start": 144.98,
+          "end": 145.6
+        },
+        {
+          "word": "short",
+          "start": 145.6,
+          "end": 146.74
+        },
+        {
+          "word": "time.",
+          "start": 146.74,
+          "end": 147.5
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 147.5,
+      "end": 158.38,
+      "text": "You have to give enough time to rest and massage the baby.",
+      "words": [
+        {
+          "word": "You",
+          "start": 147.5,
+          "end": 148.04
+        },
+        {
+          "word": "have",
+          "start": 148.04,
+          "end": 149.42
+        },
+        {
+          "word": "to",
+          "start": 149.42,
+          "end": 149.42
+        },
+        {
+          "word": "give",
+          "start": 149.42,
+          "end": 149.44
+        },
+        {
+          "word": "enough",
+          "start": 149.44,
+          "end": 151.9
+        },
+        {
+          "word": "time",
+          "start": 151.9,
+          "end": 152.26
+        },
+        {
+          "word": "to",
+          "start": 152.26,
+          "end": 153.26
+        },
+        {
+          "word": "rest",
+          "start": 153.26,
+          "end": 153.26
+        },
+        {
+          "word": "and",
+          "start": 153.26,
+          "end": 154.24
+        },
+        {
+          "word": "massage",
+          "start": 154.24,
+          "end": 158.08
+        },
+        {
+          "word": "the",
+          "start": 158.08,
+          "end": 158.14
+        },
+        {
+          "word": "baby.",
+          "start": 158.14,
+          "end": 158.38
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 160.5,
+      "end": 165.18,
+      "text": "Then massage the head.",
+      "words": [
+        {
+          "word": "Then",
+          "start": 160.44,
+          "end": 161.14
+        },
+        {
+          "word": "massage",
+          "start": 161.14,
+          "end": 164.96
+        },
+        {
+          "word": "the",
+          "start": 164.96,
+          "end": 165.18
+        },
+        {
+          "word": "head.",
+          "start": 165.18,
+          "end": 165.18
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 169.73999999999998,
+      "end": 171.46,
+      "text": "Now massage the chest.",
+      "words": [
+        {
+          "word": "Now",
+          "start": 169.73999999999998,
+          "end": 171.14
+        },
+        {
+          "word": "massage",
+          "start": 171.14,
+          "end": 171.14
+        },
+        {
+          "word": "the",
+          "start": 171.14,
+          "end": 171.14
+        },
+        {
+          "word": "chest.",
+          "start": 171.14,
+          "end": 171.46
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 172.38,
+      "end": 177.96,
+      "text": "After that you can massage the chest.",
+      "words": [
+        {
+          "word": "After",
+          "start": 172.38,
+          "end": 172.54
+        },
+        {
+          "word": "that",
+          "start": 172.54,
+          "end": 172.54
+        },
+        {
+          "word": "you",
+          "start": 172.54,
+          "end": 172.54
+        },
+        {
+          "word": "can",
+          "start": 172.54,
+          "end": 173.82
+        },
+        {
+          "word": "massage",
+          "start": 173.82,
+          "end": 173.82
+        },
+        {
+          "word": "the",
+          "start": 173.82,
+          "end": 177.96
+        },
+        {
+          "word": "chest.",
+          "start": 177.96,
+          "end": 177.96
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 178.94,
+      "end": 182.24,
+      "text": "After that you have to massage the arms.",
+      "words": [
+        {
+          "word": "After",
+          "start": 178.94,
+          "end": 180.34
+        },
+        {
+          "word": "that",
+          "start": 180.34,
+          "end": 180.34
+        },
+        {
+          "word": "you",
+          "start": 180.34,
+          "end": 180.34
+        },
+        {
+          "word": "have",
+          "start": 180.34,
+          "end": 180.34
+        },
+        {
+          "word": "to",
+          "start": 180.34,
+          "end": 180.34
+        },
+        {
+          "word": "massage",
+          "start": 180.34,
+          "end": 180.34
+        },
+        {
+          "word": "the",
+          "start": 180.34,
+          "end": 181.74
+        },
+        {
+          "word": "arms.",
+          "start": 181.74,
+          "end": 182.24
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 182.24,
+      "end": 186.66,
+      "text": "Massage the arms and then massage the baby.",
+      "words": [
+        {
+          "word": "Massage",
+          "start": 182.24,
+          "end": 182.64
+        },
+        {
+          "word": "the",
+          "start": 182.64,
+          "end": 182.84
+        },
+        {
+          "word": "arms",
+          "start": 182.84,
+          "end": 183.82
+        },
+        {
+          "word": "and",
+          "start": 183.82,
+          "end": 186.62
+        },
+        {
+          "word": "then",
+          "start": 186.62,
+          "end": 186.66
+        },
+        {
+          "word": "massage",
+          "start": 186.66,
+          "end": 186.66
+        },
+        {
+          "word": "the",
+          "start": 186.66,
+          "end": 186.66
+        },
+        {
+          "word": "baby.",
+          "start": 186.66,
+          "end": 186.66
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 186.66,
+      "end": 189.12,
+      "text": "Now I will show you the massage.",
+      "words": [
+        {
+          "word": "Now",
+          "start": 186.66,
+          "end": 187.08
+        },
+        {
+          "word": "I",
+          "start": 187.08,
+          "end": 187.08
+        },
+        {
+          "word": "will",
+          "start": 187.08,
+          "end": 187.08
+        },
+        {
+          "word": "show",
+          "start": 187.08,
+          "end": 187.08
+        },
+        {
+          "word": "you",
+          "start": 187.08,
+          "end": 189.12
+        },
+        {
+          "word": "the",
+          "start": 189.12,
+          "end": 189.12
+        },
+        {
+          "word": "massage.",
+          "start": 189.12,
+          "end": 189.12
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 199.42,
+      "end": 201.56,
+      "text": "Massage the arms and legs.",
+      "words": [
+        {
+          "word": "Massage",
+          "start": 199.42,
+          "end": 200.82
+        },
+        {
+          "word": "the",
+          "start": 200.82,
+          "end": 200.82
+        },
+        {
+          "word": "arms",
+          "start": 200.82,
+          "end": 200.82
+        },
+        {
+          "word": "and",
+          "start": 200.82,
+          "end": 200.82
+        },
+        {
+          "word": "legs.",
+          "start": 200.82,
+          "end": 201.56
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 206.17999999999998,
+      "end": 210.74,
+      "text": "Massage the legs and legs.",
+      "words": [
+        {
+          "word": "Massage",
+          "start": 206.17999999999998,
+          "end": 207.57999999999998
+        },
+        {
+          "word": "the",
+          "start": 207.57999999999998,
+          "end": 208.98
+        },
+        {
+          "word": "legs",
+          "start": 208.98,
+          "end": 210.74
+        },
+        {
+          "word": "and",
+          "start": 210.74,
+          "end": 210.74
+        },
+        {
+          "word": "legs.",
+          "start": 210.74,
+          "end": 210.74
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 210.74,
+      "end": 212.76,
+      "text": "Massage the legs and legs.",
+      "words": [
+        {
+          "word": "Massage",
+          "start": 210.74,
+          "end": 210.74
+        },
+        {
+          "word": "the",
+          "start": 210.74,
+          "end": 210.74
+        },
+        {
+          "word": "legs",
+          "start": 210.74,
+          "end": 210.74
+        },
+        {
+          "word": "and",
+          "start": 210.74,
+          "end": 210.88
+        },
+        {
+          "word": "legs.",
+          "start": 210.88,
+          "end": 212.76
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 214.96,
+      "end": 216.08,
+      "text": "Massage the legs and legs.",
+      "words": [
+        {
+          "word": "Massage",
+          "start": 214.96,
+          "end": 216.08
+        },
+        {
+          "word": "the",
+          "start": 216.08,
+          "end": 216.08
+        },
+        {
+          "word": "legs",
+          "start": 216.08,
+          "end": 216.08
+        },
+        {
+          "word": "and",
+          "start": 216.08,
+          "end": 216.08
+        },
+        {
+          "word": "legs.",
+          "start": 216.08,
+          "end": 216.08
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 216.08,
+      "end": 218.88,
+      "text": "After that massage the belly.",
+      "words": [
+        {
+          "word": "After",
+          "start": 216.08,
+          "end": 216.14
+        },
+        {
+          "word": "that",
+          "start": 216.14,
+          "end": 216.74
+        },
+        {
+          "word": "massage",
+          "start": 216.74,
+          "end": 218.38
+        },
+        {
+          "word": "the",
+          "start": 218.38,
+          "end": 218.38
+        },
+        {
+          "word": "belly.",
+          "start": 218.38,
+          "end": 218.88
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 220.1,
+      "end": 227.38,
+      "text": "If you have young children, you can massage the belly.",
+      "words": [
+        {
+          "word": "If",
+          "start": 220.1,
+          "end": 220.18
+        },
+        {
+          "word": "you",
+          "start": 220.18,
+          "end": 220.18
+        },
+        {
+          "word": "have",
+          "start": 220.18,
+          "end": 220.18
+        },
+        {
+          "word": "young",
+          "start": 220.18,
+          "end": 220.74
+        },
+        {
+          "word": "children,",
+          "start": 220.74,
+          "end": 221.1
+        },
+        {
+          "word": "you",
+          "start": 222.24,
+          "end": 222.56
+        },
+        {
+          "word": "can",
+          "start": 222.56,
+          "end": 226.04
+        },
+        {
+          "word": "massage",
+          "start": 226.04,
+          "end": 226.5
+        },
+        {
+          "word": "the",
+          "start": 226.5,
+          "end": 227.0
+        },
+        {
+          "word": "belly.",
+          "start": 227.0,
+          "end": 227.38
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 227.38,
+      "end": 230.78,
+      "text": "You can massage the belly and massage the belly.",
+      "words": [
+        {
+          "word": "You",
+          "start": 227.38,
+          "end": 227.38
+        },
+        {
+          "word": "can",
+          "start": 227.38,
+          "end": 227.38
+        },
+        {
+          "word": "massage",
+          "start": 227.38,
+          "end": 227.72
+        },
+        {
+          "word": "the",
+          "start": 227.72,
+          "end": 227.72
+        },
+        {
+          "word": "belly",
+          "start": 227.72,
+          "end": 227.72
+        },
+        {
+          "word": "and",
+          "start": 227.72,
+          "end": 228.34
+        },
+        {
+          "word": "massage",
+          "start": 228.34,
+          "end": 230.76
+        },
+        {
+          "word": "the",
+          "start": 230.76,
+          "end": 230.78
+        },
+        {
+          "word": "belly.",
+          "start": 230.78,
+          "end": 230.78
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 232.96,
+      "end": 237.16,
+      "text": "If you have young children, you can massage the belly.",
+      "words": [
+        {
+          "word": "If",
+          "start": 232.96,
+          "end": 234.08
+        },
+        {
+          "word": "you",
+          "start": 234.08,
+          "end": 234.08
+        },
+        {
+          "word": "have",
+          "start": 234.08,
+          "end": 234.08
+        },
+        {
+          "word": "young",
+          "start": 234.08,
+          "end": 235.36
+        },
+        {
+          "word": "children,",
+          "start": 235.36,
+          "end": 236.2
+        },
+        {
+          "word": "you",
+          "start": 236.22,
+          "end": 236.22
+        },
+        {
+          "word": "can",
+          "start": 236.22,
+          "end": 236.22
+        },
+        {
+          "word": "massage",
+          "start": 236.22,
+          "end": 237.04
+        },
+        {
+          "word": "the",
+          "start": 237.04,
+          "end": 237.04
+        },
+        {
+          "word": "belly.",
+          "start": 237.04,
+          "end": 237.16
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 237.16,
+      "end": 242.54,
+      "text": "After that you can massage the belly.",
+      "words": [
+        {
+          "word": "After",
+          "start": 237.16,
+          "end": 237.92
+        },
+        {
+          "word": "that",
+          "start": 237.92,
+          "end": 237.92
+        },
+        {
+          "word": "you",
+          "start": 237.92,
+          "end": 238.76
+        },
+        {
+          "word": "can",
+          "start": 238.76,
+          "end": 240.3
+        },
+        {
+          "word": "massage",
+          "start": 240.3,
+          "end": 240.3
+        },
+        {
+          "word": "the",
+          "start": 240.3,
+          "end": 242.54
+        },
+        {
+          "word": "belly.",
+          "start": 242.54,
+          "end": 242.54
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 243.6,
+      "end": 244.22,
+      "text": "After that you can massage the belly.",
+      "words": [
+        {
+          "word": "After",
+          "start": 243.6,
+          "end": 244.22
+        },
+        {
+          "word": "that",
+          "start": 244.22,
+          "end": 244.22
+        },
+        {
+          "word": "you",
+          "start": 244.22,
+          "end": 244.22
+        },
+        {
+          "word": "can",
+          "start": 244.22,
+          "end": 244.22
+        },
+        {
+          "word": "massage",
+          "start": 244.22,
+          "end": 244.22
+        },
+        {
+          "word": "the",
+          "start": 244.22,
+          "end": 244.22
+        },
+        {
+          "word": "belly.",
+          "start": 244.22,
+          "end": 244.22
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 244.24,
+      "end": 252.48,
+      "text": "Now you have to massage the belly for at least 15 minutes.",
+      "words": [
+        {
+          "word": "Now",
+          "start": 244.24,
+          "end": 244.24
+        },
+        {
+          "word": "you",
+          "start": 244.24,
+          "end": 245.16
+        },
+        {
+          "word": "have",
+          "start": 245.16,
+          "end": 245.9
+        },
+        {
+          "word": "to",
+          "start": 245.9,
+          "end": 247.62
+        },
+        {
+          "word": "massage",
+          "start": 247.62,
+          "end": 247.68
+        },
+        {
+          "word": "the",
+          "start": 247.68,
+          "end": 247.68
+        },
+        {
+          "word": "belly",
+          "start": 247.68,
+          "end": 247.8
+        },
+        {
+          "word": "for",
+          "start": 247.8,
+          "end": 247.8
+        },
+        {
+          "word": "at",
+          "start": 247.8,
+          "end": 247.8
+        },
+        {
+          "word": "least",
+          "start": 247.8,
+          "end": 250.0
+        },
+        {
+          "word": "15",
+          "start": 250.0,
+          "end": 251.06
+        },
+        {
+          "word": "minutes.",
+          "start": 251.06,
+          "end": 252.48
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 253.52,
+      "end": 256.74,
+      "text": "If you massage the belly for less time, it will not be useful.",
+      "words": [
+        {
+          "word": "If",
+          "start": 253.52,
+          "end": 254.1
+        },
+        {
+          "word": "you",
+          "start": 254.1,
+          "end": 254.42
+        },
+        {
+          "word": "massage",
+          "start": 254.42,
+          "end": 255.1
+        },
+        {
+          "word": "the",
+          "start": 255.1,
+          "end": 255.1
+        },
+        {
+          "word": "belly",
+          "start": 255.1,
+          "end": 255.1
+        },
+        {
+          "word": "for",
+          "start": 255.1,
+          "end": 255.1
+        },
+        {
+          "word": "less",
+          "start": 255.1,
+          "end": 255.1
+        },
+        {
+          "word": "time,",
+          "start": 255.1,
+          "end": 255.1
+        },
+        {
+          "word": "it",
+          "start": 255.52,
+          "end": 255.82
+        },
+        {
+          "word": "will",
+          "start": 255.82,
+          "end": 255.82
+        },
+        {
+          "word": "not",
+          "start": 255.82,
+          "end": 255.82
+        },
+        {
+          "word": "be",
+          "start": 255.82,
+          "end": 256.0
+        },
+        {
+          "word": "useful.",
+          "start": 256.0,
+          "end": 256.74
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 256.98,
+      "end": 259.86,
+      "text": "Don't massage the belly for more than half an hour.",
+      "words": [
+        {
+          "word": "Don't",
+          "start": 256.98,
+          "end": 258.08
+        },
+        {
+          "word": "massage",
+          "start": 258.08,
+          "end": 259.86
+        },
+        {
+          "word": "the",
+          "start": 259.86,
+          "end": 259.86
+        },
+        {
+          "word": "belly",
+          "start": 259.86,
+          "end": 259.86
+        },
+        {
+          "word": "for",
+          "start": 259.86,
+          "end": 259.86
+        },
+        {
+          "word": "more",
+          "start": 259.86,
+          "end": 259.86
+        },
+        {
+          "word": "than",
+          "start": 259.86,
+          "end": 259.86
+        },
+        {
+          "word": "half",
+          "start": 259.86,
+          "end": 259.86
+        },
+        {
+          "word": "an",
+          "start": 259.86,
+          "end": 259.86
+        },
+        {
+          "word": "hour.",
+          "start": 259.86,
+          "end": 259.86
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 262.1,
+      "end": 263.5,
+      "text": "Massage the belly.",
+      "words": [
+        {
+          "word": "Massage",
+          "start": 262.1,
+          "end": 263.5
+        },
+        {
+          "word": "the",
+          "start": 263.5,
+          "end": 263.5
+        },
+        {
+          "word": "belly.",
+          "start": 263.5,
+          "end": 263.5
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 264.71999999999997,
+      "end": 271.48,
+      "text": "You shouldidesn't to get better results in the long term.",
+      "words": [
+        {
+          "word": "You",
+          "start": 264.71999999999997,
+          "end": 265.76
+        },
+        {
+          "word": "shouldidesn't",
+          "start": 265.76,
+          "end": 265.94
+        },
+        {
+          "word": "to",
+          "start": 265.94,
+          "end": 265.94
+        },
+        {
+          "word": "get",
+          "start": 265.94,
+          "end": 266.06
+        },
+        {
+          "word": "better",
+          "start": 266.06,
+          "end": 269.5
+        },
+        {
+          "word": "results",
+          "start": 269.5,
+          "end": 270.96
+        },
+        {
+          "word": "in",
+          "start": 270.96,
+          "end": 271.48
+        },
+        {
+          "word": "the",
+          "start": 271.48,
+          "end": 271.48
+        },
+        {
+          "word": "long",
+          "start": 271.48,
+          "end": 271.48
+        },
+        {
+          "word": "term.",
+          "start": 271.48,
+          "end": 271.48
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 272.06,
+      "end": 274.6,
+      "text": "Ma scary many more times then when you also get good results from the sythe.",
+      "words": [
+        {
+          "word": "Ma",
+          "start": 272.06,
+          "end": 272.96
+        },
+        {
+          "word": "scary",
+          "start": 272.96,
+          "end": 272.96
+        },
+        {
+          "word": "many",
+          "start": 272.96,
+          "end": 272.96
+        },
+        {
+          "word": "more",
+          "start": 272.96,
+          "end": 273.4
+        },
+        {
+          "word": "times",
+          "start": 273.4,
+          "end": 273.78
+        },
+        {
+          "word": "then",
+          "start": 273.78,
+          "end": 274.6
+        },
+        {
+          "word": "when",
+          "start": 274.6,
+          "end": 274.6
+        },
+        {
+          "word": "you",
+          "start": 274.6,
+          "end": 274.6
+        },
+        {
+          "word": "also",
+          "start": 274.6,
+          "end": 274.6
+        },
+        {
+          "word": "get",
+          "start": 274.6,
+          "end": 274.6
+        },
+        {
+          "word": "good",
+          "start": 274.6,
+          "end": 274.6
+        },
+        {
+          "word": "results",
+          "start": 274.6,
+          "end": 274.6
+        },
+        {
+          "word": "from",
+          "start": 274.6,
+          "end": 274.6
+        },
+        {
+          "word": "the",
+          "start": 274.6,
+          "end": 274.6
+        },
+        {
+          "word": "sythe.",
+          "start": 274.6,
+          "end": 274.6
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 274.6,
+      "end": 276.22,
+      "text": "Apply massage with a lot of care and a lot of patience.",
+      "words": [
+        {
+          "word": "Apply",
+          "start": 274.6,
+          "end": 274.62
+        },
+        {
+          "word": "massage",
+          "start": 274.62,
+          "end": 274.62
+        },
+        {
+          "word": "with",
+          "start": 274.62,
+          "end": 274.62
+        },
+        {
+          "word": "a",
+          "start": 274.62,
+          "end": 275.6
+        },
+        {
+          "word": "lot",
+          "start": 275.6,
+          "end": 276.16
+        },
+        {
+          "word": "of",
+          "start": 276.16,
+          "end": 276.18
+        },
+        {
+          "word": "care",
+          "start": 276.18,
+          "end": 276.18
+        },
+        {
+          "word": "and",
+          "start": 276.18,
+          "end": 276.22
+        },
+        {
+          "word": "a",
+          "start": 276.22,
+          "end": 276.22
+        },
+        {
+          "word": "lot",
+          "start": 276.22,
+          "end": 276.22
+        },
+        {
+          "word": "of",
+          "start": 276.22,
+          "end": 276.22
+        },
+        {
+          "word": "patience.",
+          "start": 276.22,
+          "end": 276.22
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 277.34,
+      "end": 278.92,
+      "text": "This will also help the maturity of the child.",
+      "words": [
+        {
+          "word": "This",
+          "start": 277.34,
+          "end": 277.46
+        },
+        {
+          "word": "will",
+          "start": 277.46,
+          "end": 277.52
+        },
+        {
+          "word": "also",
+          "start": 277.52,
+          "end": 277.52
+        },
+        {
+          "word": "help",
+          "start": 277.52,
+          "end": 277.52
+        },
+        {
+          "word": "the",
+          "start": 277.52,
+          "end": 277.74
+        },
+        {
+          "word": "maturity",
+          "start": 277.74,
+          "end": 278.34
+        },
+        {
+          "word": "of",
+          "start": 278.34,
+          "end": 278.92
+        },
+        {
+          "word": "the",
+          "start": 278.92,
+          "end": 278.92
+        },
+        {
+          "word": "child.",
+          "start": 278.92,
+          "end": 278.92
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 283.26,
+      "end": 285.74,
+      "text": "This is how I massage the belly massage that you too saw in the last video.",
+      "words": [
+        {
+          "word": "This",
+          "start": 283.26,
+          "end": 283.9
+        },
+        {
+          "word": "is",
+          "start": 283.9,
+          "end": 283.9
+        },
+        {
+          "word": "how",
+          "start": 283.9,
+          "end": 284.14
+        },
+        {
+          "word": "I",
+          "start": 284.14,
+          "end": 284.6
+        },
+        {
+          "word": "massage",
+          "start": 284.6,
+          "end": 285.28
+        },
+        {
+          "word": "the",
+          "start": 285.28,
+          "end": 285.28
+        },
+        {
+          "word": "belly",
+          "start": 285.28,
+          "end": 285.28
+        },
+        {
+          "word": "massage",
+          "start": 285.28,
+          "end": 285.28
+        },
+        {
+          "word": "that",
+          "start": 285.28,
+          "end": 285.74
+        },
+        {
+          "word": "you",
+          "start": 285.74,
+          "end": 285.74
+        },
+        {
+          "word": "too",
+          "start": 285.74,
+          "end": 285.74
+        },
+        {
+          "word": "saw",
+          "start": 285.74,
+          "end": 285.74
+        },
+        {
+          "word": "in",
+          "start": 285.74,
+          "end": 285.74
+        },
+        {
+          "word": "the",
+          "start": 285.74,
+          "end": 285.74
+        },
+        {
+          "word": "last",
+          "start": 285.74,
+          "end": 285.74
+        },
+        {
+          "word": "video.",
+          "start": 285.74,
+          "end": 285.74
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 287.96,
+      "end": 289.28,
+      "text": "Now you all have told me how to massage the belly.",
+      "words": [
+        {
+          "word": "Now",
+          "start": 287.96,
+          "end": 288.22
+        },
+        {
+          "word": "you",
+          "start": 288.22,
+          "end": 288.28
+        },
+        {
+          "word": "all",
+          "start": 288.28,
+          "end": 288.28
+        },
+        {
+          "word": "have",
+          "start": 288.28,
+          "end": 288.28
+        },
+        {
+          "word": "told",
+          "start": 288.28,
+          "end": 288.28
+        },
+        {
+          "word": "me",
+          "start": 288.28,
+          "end": 288.28
+        },
+        {
+          "word": "how",
+          "start": 288.28,
+          "end": 288.32
+        },
+        {
+          "word": "to",
+          "start": 288.32,
+          "end": 288.36
+        },
+        {
+          "word": "massage",
+          "start": 288.36,
+          "end": 289.28
+        },
+        {
+          "word": "the",
+          "start": 289.28,
+          "end": 289.28
+        },
+        {
+          "word": "belly.",
+          "start": 289.28,
+          "end": 289.28
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 289.28,
+      "end": 292.16,
+      "text": "what you have to do is",
+      "words": [
+        {
+          "word": "what",
+          "start": 289.28,
+          "end": 289.28
+        },
+        {
+          "word": "you",
+          "start": 289.28,
+          "end": 289.28
+        },
+        {
+          "word": "have",
+          "start": 289.28,
+          "end": 289.28
+        },
+        {
+          "word": "to",
+          "start": 289.28,
+          "end": 290.02
+        },
+        {
+          "word": "do",
+          "start": 290.02,
+          "end": 290.02
+        },
+        {
+          "word": "is",
+          "start": 290.02,
+          "end": 292.16
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 292.16,
+      "end": 293.96,
+      "text": "you have to make a video and share it with us",
+      "words": [
+        {
+          "word": "you",
+          "start": 292.16,
+          "end": 292.16
+        },
+        {
+          "word": "have",
+          "start": 292.16,
+          "end": 292.26
+        },
+        {
+          "word": "to",
+          "start": 292.26,
+          "end": 292.3
+        },
+        {
+          "word": "make",
+          "start": 292.3,
+          "end": 292.32
+        },
+        {
+          "word": "a",
+          "start": 292.32,
+          "end": 292.58
+        },
+        {
+          "word": "video",
+          "start": 292.58,
+          "end": 292.96
+        },
+        {
+          "word": "and",
+          "start": 292.96,
+          "end": 293.14
+        },
+        {
+          "word": "share",
+          "start": 293.14,
+          "end": 293.58
+        },
+        {
+          "word": "it",
+          "start": 293.58,
+          "end": 293.9
+        },
+        {
+          "word": "with",
+          "start": 293.9,
+          "end": 293.96
+        },
+        {
+          "word": "us",
+          "start": 293.96,
+          "end": 293.96
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 293.96,
+      "end": 295.92,
+      "text": "what you have to know in that video is",
+      "words": [
+        {
+          "word": "what",
+          "start": 293.96,
+          "end": 294.88
+        },
+        {
+          "word": "you",
+          "start": 294.88,
+          "end": 295.3
+        },
+        {
+          "word": "have",
+          "start": 295.3,
+          "end": 295.3
+        },
+        {
+          "word": "to",
+          "start": 295.3,
+          "end": 295.32
+        },
+        {
+          "word": "know",
+          "start": 295.32,
+          "end": 295.32
+        },
+        {
+          "word": "in",
+          "start": 295.32,
+          "end": 295.32
+        },
+        {
+          "word": "that",
+          "start": 295.32,
+          "end": 295.32
+        },
+        {
+          "word": "video",
+          "start": 295.32,
+          "end": 295.32
+        },
+        {
+          "word": "is",
+          "start": 295.32,
+          "end": 295.92
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 295.92,
+      "end": 297.28,
+      "text": "how you massage",
+      "words": [
+        {
+          "word": "how",
+          "start": 295.92,
+          "end": 296.44
+        },
+        {
+          "word": "you",
+          "start": 296.44,
+          "end": 296.52
+        },
+        {
+          "word": "massage",
+          "start": 296.52,
+          "end": 297.28
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 298.48,
+      "end": 301.62,
+      "text": "so you have to take a lamp in your house",
+      "words": [
+        {
+          "word": "so",
+          "start": 298.48,
+          "end": 299.32
+        },
+        {
+          "word": "you",
+          "start": 299.32,
+          "end": 299.96
+        },
+        {
+          "word": "have",
+          "start": 299.96,
+          "end": 300.02
+        },
+        {
+          "word": "to",
+          "start": 300.02,
+          "end": 300.1
+        },
+        {
+          "word": "take",
+          "start": 300.1,
+          "end": 300.1
+        },
+        {
+          "word": "a",
+          "start": 300.1,
+          "end": 300.52
+        },
+        {
+          "word": "lamp",
+          "start": 300.52,
+          "end": 300.74
+        },
+        {
+          "word": "in",
+          "start": 300.74,
+          "end": 301.62
+        },
+        {
+          "word": "your",
+          "start": 301.62,
+          "end": 301.62
+        },
+        {
+          "word": "house",
+          "start": 301.62,
+          "end": 301.62
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 301.62,
+      "end": 303.94,
+      "text": "and you have to make a stroke",
+      "words": [
+        {
+          "word": "and",
+          "start": 301.62,
+          "end": 302.56
+        },
+        {
+          "word": "you",
+          "start": 302.56,
+          "end": 302.56
+        },
+        {
+          "word": "have",
+          "start": 302.56,
+          "end": 302.56
+        },
+        {
+          "word": "to",
+          "start": 302.56,
+          "end": 303.94
+        },
+        {
+          "word": "make",
+          "start": 303.94,
+          "end": 303.94
+        },
+        {
+          "word": "a",
+          "start": 303.94,
+          "end": 303.94
+        },
+        {
+          "word": "stroke",
+          "start": 303.94,
+          "end": 303.94
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 303.94,
+      "end": 307.64,
+      "text": "one by one",
+      "words": [
+        {
+          "word": "one",
+          "start": 303.94,
+          "end": 304.32
+        },
+        {
+          "word": "by",
+          "start": 304.32,
+          "end": 304.64
+        },
+        {
+          "word": "one",
+          "start": 304.64,
+          "end": 307.64
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 307.64,
+      "end": 312.12,
+      "text": "you have to record it",
+      "words": [
+        {
+          "word": "you",
+          "start": 307.64,
+          "end": 308.0
+        },
+        {
+          "word": "have",
+          "start": 308.0,
+          "end": 308.42
+        },
+        {
+          "word": "to",
+          "start": 308.42,
+          "end": 308.42
+        },
+        {
+          "word": "record",
+          "start": 308.42,
+          "end": 308.42
+        },
+        {
+          "word": "it",
+          "start": 308.42,
+          "end": 312.12
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 313.28,
+      "end": 314.4,
+      "text": "you don't have to use oil",
+      "words": [
+        {
+          "word": "you",
+          "start": 312.9,
+          "end": 313.32
+        },
+        {
+          "word": "don't",
+          "start": 313.32,
+          "end": 313.56
+        },
+        {
+          "word": "have",
+          "start": 313.56,
+          "end": 313.56
+        },
+        {
+          "word": "to",
+          "start": 313.56,
+          "end": 313.56
+        },
+        {
+          "word": "use",
+          "start": 313.56,
+          "end": 313.56
+        },
+        {
+          "word": "oil",
+          "start": 313.56,
+          "end": 314.4
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 314.4,
+      "end": 315.42,
+      "text": "you don't have to use oil",
+      "words": [
+        {
+          "word": "you",
+          "start": 314.4,
+          "end": 314.4
+        },
+        {
+          "word": "don't",
+          "start": 314.4,
+          "end": 314.4
+        },
+        {
+          "word": "have",
+          "start": 314.4,
+          "end": 314.78
+        },
+        {
+          "word": "to",
+          "start": 314.78,
+          "end": 315.06
+        },
+        {
+          "word": "use",
+          "start": 315.06,
+          "end": 315.06
+        },
+        {
+          "word": "oil",
+          "start": 315.06,
+          "end": 315.42
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 315.42,
+      "end": 318.22,
+      "text": "but you have to do it in the front and back",
+      "words": [
+        {
+          "word": "but",
+          "start": 315.42,
+          "end": 316.38
+        },
+        {
+          "word": "you",
+          "start": 316.38,
+          "end": 317.28
+        },
+        {
+          "word": "have",
+          "start": 317.28,
+          "end": 317.28
+        },
+        {
+          "word": "to",
+          "start": 317.28,
+          "end": 317.28
+        },
+        {
+          "word": "do",
+          "start": 317.28,
+          "end": 317.28
+        },
+        {
+          "word": "it",
+          "start": 317.28,
+          "end": 317.28
+        },
+        {
+          "word": "in",
+          "start": 317.28,
+          "end": 317.28
+        },
+        {
+          "word": "the",
+          "start": 317.28,
+          "end": 317.3
+        },
+        {
+          "word": "front",
+          "start": 317.3,
+          "end": 317.34
+        },
+        {
+          "word": "and",
+          "start": 317.34,
+          "end": 317.62
+        },
+        {
+          "word": "back",
+          "start": 317.62,
+          "end": 318.22
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 318.22,
+      "end": 322.6,
+      "text": "how you massage the back of the lamp",
+      "words": [
+        {
+          "word": "how",
+          "start": 318.22,
+          "end": 318.56
+        },
+        {
+          "word": "you",
+          "start": 318.56,
+          "end": 320.2
+        },
+        {
+          "word": "massage",
+          "start": 320.2,
+          "end": 320.88
+        },
+        {
+          "word": "the",
+          "start": 320.88,
+          "end": 321.08
+        },
+        {
+          "word": "back",
+          "start": 321.08,
+          "end": 322.26
+        },
+        {
+          "word": "of",
+          "start": 322.26,
+          "end": 322.6
+        },
+        {
+          "word": "the",
+          "start": 322.6,
+          "end": 322.6
+        },
+        {
+          "word": "lamp",
+          "start": 322.6,
+          "end": 322.6
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 323.4,
+      "end": 326.26,
+      "text": "make a clear and neat video",
+      "words": [
+        {
+          "word": "make",
+          "start": 323.4,
+          "end": 323.96
+        },
+        {
+          "word": "a",
+          "start": 323.96,
+          "end": 324.74
+        },
+        {
+          "word": "clear",
+          "start": 324.74,
+          "end": 325.26
+        },
+        {
+          "word": "and",
+          "start": 325.26,
+          "end": 325.48
+        },
+        {
+          "word": "neat",
+          "start": 325.48,
+          "end": 325.92
+        },
+        {
+          "word": "video",
+          "start": 325.92,
+          "end": 326.26
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 326.26,
+      "end": 327.54,
+      "text": "and share it with us",
+      "words": [
+        {
+          "word": "and",
+          "start": 326.26,
+          "end": 327.16
+        },
+        {
+          "word": "share",
+          "start": 327.16,
+          "end": 327.16
+        },
+        {
+          "word": "it",
+          "start": 327.16,
+          "end": 327.16
+        },
+        {
+          "word": "with",
+          "start": 327.16,
+          "end": 327.16
+        },
+        {
+          "word": "us",
+          "start": 327.16,
+          "end": 327.54
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 327.54,
+      "end": 330.12,
+      "text": "what you do in the morning",
+      "words": [
+        {
+          "word": "what",
+          "start": 327.54,
+          "end": 328.12
+        },
+        {
+          "word": "you",
+          "start": 328.12,
+          "end": 328.7
+        },
+        {
+          "word": "do",
+          "start": 328.7,
+          "end": 330.12
+        },
+        {
+          "word": "in",
+          "start": 330.12,
+          "end": 330.12
+        },
+        {
+          "word": "the",
+          "start": 330.12,
+          "end": 330.12
+        },
+        {
+          "word": "morning",
+          "start": 330.12,
+          "end": 330.12
+        }
+      ]
+    }
+  ]
+}
