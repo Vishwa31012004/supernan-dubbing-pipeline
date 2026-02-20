@@ -1,0 +1,81 @@
+# ============================================================
+# WAV2LIP LIP-SYNC FOR SUPERNAN PROJECT
+# Run this in Google Colab (colab.research.google.com)
+# ============================================================
+
+# STEP 1: Setup and Install Dependencies
+print("📦 Installing dependencies...")
+
+!pip install -q youtube-dl
+!pip install -q git+https://github.com/elliottzheng/batch-face.git@master
+
+# Clone Wav2Lip repository
+!git clone https://github.com/Rudrabha/Wav2Lip.git
+%cd Wav2Lip
+
+# Install requirements
+!pip install -r requirements.txt
+
+print("✅ Dependencies installed!")
+
+# ============================================================
+# STEP 2: Download Pre-trained Model
+print("\n📥 Downloading Wav2Lip model...")
+
+!wget 'https://github.com/Rudrabha/Wav2Lip/releases/download/models/wav2lip_gan.pth' -O 'checkpoints/wav2lip_gan.pth'
+
+print("✅ Model downloaded!")
+
+# ============================================================
+# STEP 3: Mount Google Drive
+print("\n💾 Mounting Google Drive...")
+
+from google.colab import drive
+drive.mount('/content/drive')
+
+print("✅ Google Drive mounted!")
+print("Your files should be in: /content/drive/MyDrive/Supernan-Dubbing/")
+
+# ============================================================
+# STEP 4: Set File Paths
+# CHANGE THESE TO YOUR FILE LOCATIONS IN GOOGLE DRIVE
+
+VIDEO_PATH = "/content/drive/MyDrive/Supernan-Dubbing/input_video.mp4"
+AUDIO_PATH = "/content/drive/MyDrive/Supernan-Dubbing/hindi_audio_full.mp3"
+OUTPUT_PATH = "/content/drive/MyDrive/Supernan-Dubbing/output_dubbed_video.mp4"
+
+print(f"\n📂 File paths:")
+print(f"  Video: {VIDEO_PATH}")
+print(f"  Audio: {AUDIO_PATH}")
+print(f"  Output: {OUTPUT_PATH}")
+
+# ============================================================
+# STEP 5: Run Wav2Lip!
+print("\n🎬 Running Wav2Lip lip-sync...")
+print("This will take 10-20 minutes depending on video length...")
+
+!python inference.py \
+  --checkpoint_path checkpoints/wav2lip_gan.pth \
+  --face {VIDEO_PATH} \
+  --audio {AUDIO_PATH} \
+  --outfile {OUTPUT_PATH} \
+  --resize_factor 1
+
+print("\n✅ LIP-SYNC COMPLETE!")
+print(f"Output saved to: {OUTPUT_PATH}")
+print("\nDownload from Google Drive: Supernan-Dubbing/output_dubbed_video.mp4")
+
+# ============================================================
+# STEP 6: Preview Output (Optional)
+print("\n🎥 Previewing output video...")
+
+from IPython.display import HTML
+from base64 import b64encode
+
+mp4 = open(OUTPUT_PATH,'rb').read()
+data_url = "data:video/mp4;base64," + b64encode(mp4).decode()
+HTML(f"""
+<video width=800 controls>
+      <source src="{data_url}" type="video/mp4">
+</video>
+""")
