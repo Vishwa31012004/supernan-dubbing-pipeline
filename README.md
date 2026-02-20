@@ -1,191 +1,86 @@
-\# Supernan Video Dubbing Pipeline
+# Supernan Video Dubbing Pipeline
 
+**Author:** Vishwanath S  
+**Project:** AI Automation Intern Assignment
 
+End-to-end pipeline to dub a Kannada training video into Hindi audio with lip-sync.
 
-\*\*Author:\*\* Vishwanath S  
+## ✅ Project Status: COMPLETE (7/7)
 
-\*\*Project:\*\* AI Automation Intern Assignment  
-
-\*\*Timeline:\*\* 7 days | \*\*Progress: 2/7 Complete\*\* ✅✅⬜⬜⬜⬜⬜
-
-
+| Day | Stage | Script | Status |
+|---|---|---|---|
+| 1 | Audio extraction + Kannada → English transcript | `src/day1_english_only.py` | ✅ |
+| 2 | English → Hindi translation | `src/day2_translation_free.py` | ✅ |
+| 3 | Hindi text-to-speech | `src/day3_tts_edge.py` / `src/day3_tts_elevenlabs.py` | ✅ |
+| 4-5 | Lip-sync generation with Wav2Lip | `src/day4_lipsync_wav2lip.py` | ✅ |
+| 6 | Final packaging + validation report | `src/day6_integrate_pipeline.py` | ✅ |
+| 7 | Documentation + demo checklist | `PROJECT_REPORT.md` | ✅ |
 
 ---
 
+## Quick Start
 
+### 1) Core dependencies
 
-\## ✅ Day 1: COMPLETE - Clean English Translation
+- Python 3.10+
+- `ffmpeg` / `ffprobe`
+- Optional cloud GPU for Wav2Lip (Colab recommended)
 
+Install Python packages as needed for the selected TTS stack:
 
-
-\### Results:
-
-\- \*\*Source:\*\* Kannada audio from training video
-
-\- \*\*Output:\*\* Clean English text (ASCII only)
-
-\- \*\*Model:\*\* Whisper medium (translate mode)
-
-\- \*\*Segments:\*\* 68 with word-level timestamps
-
-\- \*\*Processing time:\*\* 10.8 minutes
-
-\- \*\*Quality:\*\* Pure English, no mixed scripts
-
-
-
-\### Technical Approach:
-
-```python
-
-result = model.transcribe(
-
-&nbsp;   audio\_path,
-
-&nbsp;   task='translate',      # Force English translation
-
-&nbsp;   language='kn',         # Source: Kannada
-
-&nbsp;   word\_timestamps=True,
-
-&nbsp;   fp16=False            # Better quality
-
-)
-
+```bash
+pip install openai-whisper googletrans==4.0.0rc1 edge-tts pydub python-dotenv elevenlabs
 ```
 
+### 2) Run pipeline step-by-step
 
+```bash
+python src/day1_english_only.py
+python src/day2_translation_free.py
+python src/day3_tts_edge.py
+python src/day4_lipsync_wav2lip.py --wav2lip-root /path/to/Wav2Lip
+python src/day6_integrate_pipeline.py
+```
 
-\### Key Achievement:
+### 3) Orchestrated run
 
-Successfully forced Whisper to output \*\*pure English\*\* instead of mixed Kannada/English by using `task='translate'` parameter.
-
-
-
----
-
-
-
-\## ✅ Day 2: COMPLETE - Hindi Translation  
-
-
-
-\### Results:
-
-\- \*\*Source:\*\* Clean English (68 segments)
-
-\- \*\*Output:\*\* Hindi Devanagari script
-
-\- \*\*Method:\*\* Google Translate (googletrans)
-
-\- \*\*Success rate:\*\* 68/68 (100%) ✅
-
-\- \*\*Processing time:\*\* ~4 minutes
-
-\- \*\*Cost:\*\* $0.00 (FREE)
-
-
-
-\### Sample Output:
-
-> अब देखते हैं कि बच्चों की मालिश या मसाज कैसे करें सबसे पहले हमें मालिश के लिए सामग्री तैयार करनी होगी...
-
-
-
-\### Why Google Translate:
-
-\- ✅ Zero cost for proof-of-concept
-
-\- ✅ No API setup complexity
-
-\- ✅ Reliable and fast
-
-\- ✅ Good quality for training content
-
-\- ✅ Can upgrade to GPT-4/Gemini for production
-
-
+```bash
+python src/run_full_pipeline.py
+# Resume from a stage:
+python src/run_full_pipeline.py --from-stage day3
+```
 
 ---
 
+## Inputs and Outputs
 
+### Required Input
+- `data/input_video.mp4`
 
-\## 📊 Progress Summary
-
-
-
-| Day | Task | Status | Time | Output |
-
-|-----|------|--------|------|--------|
-
-| 1 | Audio + Transcription | ✅ | 10.8 min | 68 English segments |
-
-| 2 | Hindi Translation | ✅ | 4 min | 68 Hindi segments |
-
-| 3 | Text-to-Speech | ⏳ | - | Hindi audio |
-
-| 4-5 | Lip Sync | ⏳ | - | Synced video |
-
-| 6 | Integration | ⏳ | - | Final pipeline |
-
-| 7 | Documentation | ⏳ | - | Loom + GitHub |
-
-
-
-\*\*Total time so far:\*\* ~15 minutes of processing time  
-
-\*\*Days completed:\*\* 2/7 (29%)  
-
-
+### Produced Artifacts
+- `data/transcript.json`
+- `data/transcript_hindi.json`
+- `data/hindi_audio_full.mp3`
+- `outputs/day5_lipsynced_video.mp4`
+- `outputs/final_dubbed_video.mp4`
+- `outputs/pipeline_report.json`
 
 ---
 
+## Wav2Lip Notes
 
-## ✅ Day 3: COMPLETE - Text-to-Speech (ElevenLabs)
-
-### Results:
-- **Audio generated:** 68/68 segments (100% ✅)
-- **Duration:** 3.35 minutes (201 seconds)
-- **Characters used:** 3,072 (30% of free tier)
-- **Output format:** MP3, 192kbps
-- **Processing time:** ~12 minutes
-- **Cost:** $0.00 (FREE!)
-
-### Method: ElevenLabs (Ultra Natural)
-- **Voice:** Rachel (warm, female)
-- **Model:** eleven_multilingual_v2
-- **Quality:** ⭐⭐⭐⭐⭐ Human-like, professional
-- **Language:** Hindi (hi)
-- **Features:** Natural pauses, emotion, conversational tone
-
-### Why ElevenLabs:
-- Best-in-class natural speech synthesis
-- Sounds like a real person speaking
-- Perfect for childcare training content
-- Warm, friendly voice suitable for educational material
-- FREE tier sufficient for entire project
-
-### Files Created:
-- `data/hindi_audio_full.mp3` - Complete Hindi audio track (3.35 min)
-- `data/hindi_segments/` - 68 individual segment MP3 files
-- `data/hindi_audio_metadata.json` - Audio generation metadata
+- Use `Wav2Lip_Colab_Notebook.txt` if running on Google Colab.
+- Download `wav2lip_gan.pth` checkpoint before executing Day 4/5 script.
+- Day 6 treats Wav2Lip output as the final muxed dubbed video and records a duration check report.
 
 ---
 
-## 📊 Progress: 3/7 Days Complete! 🎉
+## Completion Checklist
 
-**Completed:**
-- ✅ Day 1: Kannada → English (68 segments, 10.8 min)
-- ✅ Day 2: English → Hindi (68 segments, 4 min)
-- ✅ Day 3: Hindi → Audio (68 segments, 3.35 min, ElevenLabs)
-
-**Next:**
-- ⏳ Days 4-5: Lip Sync with Wav2Lip
-- ⏳ Day 6: Pipeline integration
-- ⏳ Day 7: Documentation + Loom video
-
-**Total processing time so far:** ~27 minutes  
-**Total cost:** $0.00  
-**Success rate:** 100%  
-
-Progress: **43% complete** ✅✅✅⬜⬜⬜⬜
+- [x] Source transcription produced
+- [x] Hindi translation generated
+- [x] Hindi speech synthesized
+- [x] Lip-sync video rendered
+- [x] Final dubbed video packaged
+- [x] Validation report generated
+- [x] Documentation checklist prepared
