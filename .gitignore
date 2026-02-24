@@ -1,11 +1,43 @@
+# Virtual environment
 venv/
-*.pyc
-__pycache__/
+env/
+ENV/
+
+# API keys
 .env
+
+# Data files (too large for git)
 data/*.mp4
-data/*.wav
 data/*.mp3
-outputs/
-logs/
+data/*.wav
+data/hindi_segments/
+data/hindi_segments_emotional/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# Logs
 *.log
+
+# Test files
+test_*.py
+cleanup_*.py
+choco
+Wav2Lip_Colab_Notebook.txt
+
+# Keep small JSON files
+!data/*.json

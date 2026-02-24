@@ -63,7 +63,7 @@ print("STEP 2: Translating Kannada to English with Whisper...")
 print("-"*70)
 print(f"Model: {WHISPER_MODEL}")
 print("Mode: TRANSLATE (Kannada → English)")
-print("This will take 30-40 minutes...")
+
 
 start_time = time.time()
 
@@ -80,9 +80,9 @@ try:
     result = model.transcribe(
         AUDIO_PATH,
         task='translate',  # CRITICAL: Forces English output!
-        language='kn',     # Source: Kannada
+        language='kn',     
         word_timestamps=True,
-        verbose=True,      # Show progress
+        verbose=True,     
         fp16=False         # Use FP32 for better quality
     )
     
@@ -168,13 +168,9 @@ except Exception as e:
 
 # Summary
 print("\n" + "="*70)
-print("✅ DAY 1 COMPLETE - CLEAN ENGLISH TRANSLATION!")
+print("STAGE 1 COMPLETE: TRANSCRIPTION")
 print("="*70)
-print(f"\nTotal time: {transcription_time/60:.1f} minutes")
-print(f"\nFiles created:")
-print(f"  1. {AUDIO_PATH}")
-print(f"  2. {TRANSCRIPT_PATH} ({len(result['segments'])} segments)")
-print(f"\nSource: Kannada audio")
-print(f"Output: Clean English text (ASCII only)")
-print(f"\nNext: Run Day 2 to translate English → Hindi")
+print(f"Processing time: {transcription_time/60:.1f} minutes")
+print(f"Segments extracted: {len(result['segments'])}")
+print(f"Output: {TRANSCRIPT_PATH}")
 print("="*70)
