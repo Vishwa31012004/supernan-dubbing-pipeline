@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-ELEVENLABS_API_KEY = "b0452bb802d8e89ddf5111fc039969e85d6617a8924cbdf9ee017ea82afa2757"
+ELEVENLABS_API_KEY = "add your aipi key here"  # or os.getenv("ELEVENLABS_API_KEY")
 VOICE_ID = "21m00Tcm4TlvDq8ikWAM"
 MODEL_ID = "eleven_v3"
 

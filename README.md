@@ -20,7 +20,7 @@ This pipeline automates the conversion of Kannada training videos into Hindi-dub
 - **Fast processing:** 40-50 minutes per 5-minute video
 - **Professional quality:** Realistic lip synchronization
 
---------------------------------------------------
+---
 
 ## Sample Demonstration
 
@@ -38,9 +38,10 @@ samples/dubbed_video_sample.mp4
 Pipeline Flow:
 Kannada Video → Transcription → Hindi Translation → Emotional TTS → Lip-Synced Video
 
---------------------------------------------------
+---
 
 ## 🏗️ Architecture
+
 ```
 Input Video (Kannada)
     ↓
@@ -61,14 +62,14 @@ Output Video (Hindi Dubbed)
 
 ## 🛠️ Tech Stack
 
-| Component | Technology | Purpose |
-|-----------|------------|---------|
-| Transcription | Whisper (medium) | Kannada → English |
-| Translation | Google Translate | English → Natural Hindi |
-| Emotion Analysis | Keyword-based detection | Sentiment tagging |
-| TTS | ElevenLabs Turbo v2.5 | Emotional voice synthesis |
-| Lip Sync | Wav2Lip (Replicate) | Video-audio synchronization |
-| Audio Processing | pydub, ffmpeg | Audio manipulation |
+| Component        | Technology              | Purpose                     |
+| ---------------- | ----------------------- | --------------------------- |
+| Transcription    | Whisper (medium)        | Kannada → English           |
+| Translation      | Google Translate        | English → Natural Hindi     |
+| Emotion Analysis | Keyword-based detection | Sentiment tagging           |
+| TTS              | ElevenLabs Turbo v2.5   | Emotional voice synthesis   |
+| Lip Sync         | Wav2Lip (Replicate)     | Video-audio synchronization |
+| Audio Processing | pydub, ffmpeg           | Audio manipulation          |
 
 ---
 
@@ -82,6 +83,7 @@ Output Video (Hindi Dubbed)
 - Internet connection
 
 ### Setup
+
 ```bash
 # Clone repository
 git clone https://github.com/YOUR_USERNAME/supernan-dubbing-pipeline.git
@@ -105,6 +107,7 @@ cp .env.example .env
 ## 🚀 Usage
 
 ### Quick Start
+
 ```bash
 # 1. Place your Kannada video
 cp your_video.mp4 data/input_video.mp4
@@ -114,6 +117,8 @@ python src/day1_english_only.py       # Transcription (10 min)
 python src/day2_translation_natural.py  # Translation (4 min)
 python src/day2b_emotion_detection.py   # Emotions (1 min)
 python src/day3_tts_elevenlabs_v3.py    # TTS (12 min)
+python src/day4_lipsync.py             # Generate final dubbed video
+
 
 # 3. Lip-sync on Replicate.com
 # Upload data/input_video.mp4 and data/hindi_audio_emotional.mp3
@@ -141,10 +146,10 @@ python src/day3_tts_elevenlabs_v3.py    # TTS (12 min)
 
 ### Cost Analysis
 
-| Method | Cost per Video | Time Required |
-|--------|---------------|---------------|
-| Manual Dubbing | ₹10,000-15,000 | 7-10 hours |
-| **This Pipeline** | **₹0-8** | **42 minutes** |
+| Method            | Cost per Video | Time Required  |
+| ----------------- | -------------- | -------------- |
+| Manual Dubbing    | ₹10,000-15,000 | 7-10 hours     |
+| **This Pipeline** | **₹0-8**       | **42 minutes** |
 
 **Savings:** 99.9% cost reduction, 15x faster
 
@@ -155,6 +160,7 @@ python src/day3_tts_elevenlabs_v3.py    # TTS (12 min)
 ### 1. Natural Translation Processing
 
 Implements pre and post-processing for conversational Hindi:
+
 - Converts formal English phrases to casual equivalents
 - Replaces overly formal Hindi constructions
 - Maintains semantic meaning while improving fluency
@@ -162,6 +168,7 @@ Implements pre and post-processing for conversational Hindi:
 ### 2. Emotion-Aware Voice Synthesis
 
 Automatically detects content emotion and adjusts voice parameters:
+
 - **Calm segments:** High stability, low expressiveness
 - **Instructional:** Balanced, clear delivery
 - **Serious content:** Medium stability, authoritative tone
@@ -169,6 +176,7 @@ Automatically detects content emotion and adjusts voice parameters:
 ### 3. Multi-Stage Pipeline
 
 Separates concerns for better debugging and optimization:
+
 - Independent stage execution
 - JSON-based data interchange
 - Rollback capability at any stage
@@ -176,6 +184,7 @@ Separates concerns for better debugging and optimization:
 ---
 
 ## 📁 Project Structure
+
 ```
 supernan-dubbing-pipeline/
 ├── data/
@@ -193,7 +202,8 @@ supernan-dubbing-pipeline/
 │   ├── day1_english_only.py              # Whisper transcription
 │   ├── day2_translation_natural.py       # Hindi translation
 │   ├── day2b_emotion_detection.py        # Emotion detection
-│   └── day3_tts_elevenlabs_v3.py         # Hindi TTS generation
+│   ├──  day3_tts_elevenlabs_v3.py        # Hindi TTS generation
+|   └──day4_lipsync.py                    # Lip synchronization using Wav2Lip
 │
 ├── .env.example                          # Environment template
 ├── .gitignore                            # Ignored files configuration
@@ -206,6 +216,7 @@ supernan-dubbing-pipeline/
 ## ⚙️ Configuration
 
 ### Environment Variables
+
 ```bash
 ELEVENLABS_API_KEY=your_key_here  # Get from elevenlabs.io
 ```
@@ -213,10 +224,12 @@ ELEVENLABS_API_KEY=your_key_here  # Get from elevenlabs.io
 ### Adjustable Parameters
 
 **Transcription (day1):**
+
 - `WHISPER_MODEL`: "small", "medium", "large"
 - `task`: "translate" (Kannada→English)
 
 **TTS (day3):**
+
 - `VOICE_ID`: ElevenLabs voice selection
 - `stability`: 0.3-0.7 (lower = more expressive)
 - `style`: 0.3-0.8 (higher = more emotion)
@@ -228,18 +241,21 @@ ELEVENLABS_API_KEY=your_key_here  # Get from elevenlabs.io
 ### Common Issues
 
 **Whisper out of memory:**
+
 ```bash
 # Use smaller model
 WHISPER_MODEL = "small"  # Instead of "medium"
 ```
 
 **ElevenLabs character limit:**
+
 ```bash
 # Monitor usage in metadata file
 cat data/hindi_audio_metadata_emotional.json
 ```
 
 **Lip-sync quality poor:**
+
 - Ensure audio and video are same duration
 - Check audio quality (clear speech, no background noise)
 - Use higher quality video input
@@ -267,7 +283,7 @@ This project is proprietary and confidential.
 ## 👤 Contact
 
 **Vishwanath S**  
-Email: vishwanathreddy761@gmail.com 
+Email: vishwanathreddy761@gmail.com
 GitHub: @Vishwa31012004
 
 ---
