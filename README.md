@@ -20,7 +20,25 @@ This pipeline automates the conversion of Kannada training videos into Hindi-dub
 - **Fast processing:** 40-50 minutes per 5-minute video
 - **Professional quality:** Realistic lip synchronization
 
----
+--------------------------------------------------
+
+## Sample Demonstration
+
+Below is a real example generated using this pipeline.
+
+Input Kannada Video:
+samples/input_video_sample.mp4
+
+Generated Hindi Audio:
+samples/hindi_audio_sample.mp3
+
+Final Hindi Dubbed Video:
+samples/dubbed_video_sample.mp4
+
+Pipeline Flow:
+Kannada Video → Transcription → Hindi Translation → Emotional TTS → Lip-Synced Video
+
+--------------------------------------------------
 
 ## 🏗️ Architecture
 ```
@@ -161,22 +179,26 @@ Separates concerns for better debugging and optimization:
 ```
 supernan-dubbing-pipeline/
 ├── data/
-│   ├── input_video.mp4           # Source Kannada video
-│   ├── extracted_audio.wav       # Extracted audio
-│   ├── transcript.json           # English transcript
-│   ├── transcript_hindi_natural.json
-│   ├── transcript_hindi_with_emotions.json
-│   ├── hindi_audio_emotional.mp3 # Final Hindi audio
-│   └── output_final.mp4          # Dubbed video
+│   ├── transcript.json                   # English transcript
+│   ├── transcript_hindi_natural.json     # Hindi translated text
+│   ├── transcript_hindi_with_emotions.json # Emotion tagged transcript
+│   └── hindi_audio_metadata_emotional.json # Audio metadata
+│
+├── samples/
+│   ├── input_video_sample.mp4            # Sample Kannada input video
+│   ├── hindi_audio_sample.mp3            # Generated Hindi audio sample
+│   └── dubbed_video_sample.mp4           # Final Hindi dubbed video sample
+│
 ├── src/
-│   ├── day1_english_only.py      # Whisper transcription
-│   ├── day2_translation_natural.py
-│   ├── day2b_emotion_detection.py
-│   └── day3_tts_elevenlabs_v3.py
-├── .env.example
-├── .gitignore
-├── requirements.txt
-└── README.md
+│   ├── day1_english_only.py              # Whisper transcription
+│   ├── day2_translation_natural.py       # Hindi translation
+│   ├── day2b_emotion_detection.py        # Emotion detection
+│   └── day3_tts_elevenlabs_v3.py         # Hindi TTS generation
+│
+├── .env.example                          # Environment template
+├── .gitignore                            # Ignored files configuration
+├── requirements.txt                      # Python dependencies
+└── README.md                             # Project documentation
 ```
 
 ---
