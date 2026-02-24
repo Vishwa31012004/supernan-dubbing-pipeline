@@ -1,0 +1,557 @@
+{
+  "source_transcript": "data/transcript_hindi_with_emotions.json",
+  "output_audio": "data/hindi_audio_emotional.mp3",
+  "tts_method": "ElevenLabs with Emotions",
+  "voice": "Rachel",
+  "model": "eleven_multilingual_v2",
+  "emotion_aware": true,
+  "total_segments": 68,
+  "duration_seconds": 208.597,
+  "characters_used": 3066,
+  "segments": [
+    {
+      "id": 0,
+      "file": "data/hindi_segments_emotional\\segment_000_instructional.mp3",
+      "text": "अब देखते हैं कि बच्चों की मालिश कैसे करें या मसाज कैसे करें",
+      "emotion": "instructional",
+      "start": 0.0,
+      "end": 4.88
+    },
+    {
+      "id": 1,
+      "file": "data/hindi_segments_emotional\\segment_001_instructional.mp3",
+      "text": "सबसे पहले हमें मालिश के लिए सामग्री तैयार करनी होगी",
+      "emotion": "instructional",
+      "start": 5.48,
+      "end": 11.26
+    },
+    {
+      "id": 2,
+      "file": "data/hindi_segments_emotional\\segment_002_concerned.mp3",
+      "text": "आमतौर पर तेल की आवश्यकता होती है",
+      "emotion": "concerned",
+      "start": 11.26,
+      "end": 13.94
+    },
+    {
+      "id": 3,
+      "file": "data/hindi_segments_emotional\\segment_003_neutral.mp3",
+      "text": "आप उस व्यक्ति से पूछ सकते हैं जो तेल का उपयोग करता है",
+      "emotion": "neutral",
+      "start": 13.94,
+      "end": 16.08
+    },
+    {
+      "id": 4,
+      "file": "data/hindi_segments_emotional\\segment_004_concerned.mp3",
+      "text": "बहुत अधिक तेल का प्रयोग न करें, यदि आपके पास कम तेल है तो कम तेल का प्रयोग करें",
+      "emotion": "concerned",
+      "start": 17.76,
+      "end": 25.54
+    },
+    {
+      "id": 5,
+      "file": "data/hindi_segments_emotional\\segment_005_neutral.mp3",
+      "text": "आप सार्वजनिक धरती पर तेल पोंछने के लिए कपड़े का उपयोग कर सकते हैं",
+      "emotion": "neutral",
+      "start": 25.54,
+      "end": 33.74
+    },
+    {
+      "id": 6,
+      "file": "data/hindi_segments_emotional\\segment_006_concerned.mp3",
+      "text": "हमें अपनी नौकरी से मालिश करने की अनुमति न दें",
+      "emotion": "concerned",
+      "start": 38.08,
+      "end": 42.4
+    },
+    {
+      "id": 7,
+      "file": "data/hindi_segments_emotional\\segment_007_neutral.mp3",
+      "text": "चूँकि वहाँ बहुत मित्रतापूर्ण व्यवहार होता है",
+      "emotion": "neutral",
+      "start": 42.4,
+      "end": 45.86
+    },
+    {
+      "id": 8,
+      "file": "data/hindi_segments_emotional\\segment_008_neutral.mp3",
+      "text": "हमें दरवाज़ा बंद कर देना चाहिए और सुरक्षित रहना चाहिए",
+      "emotion": "neutral",
+      "start": 45.86,
+      "end": 51.04
+    },
+    {
+      "id": 9,
+      "file": "data/hindi_segments_emotional\\segment_009_neutral.mp3",
+      "text": "इसके लिए हम एक कपड़ा लेते हैं और बिस्तर पर बच्चे की मालिश करते हैं।",
+      "emotion": "neutral",
+      "start": 51.04,
+      "end": 57.58
+    },
+    {
+      "id": 10,
+      "file": "data/hindi_segments_emotional\\segment_010_instructional.mp3",
+      "text": "सबसे पहले आपको यह जानना होगा कि शिशु की मालिश कब करनी है।",
+      "emotion": "instructional",
+      "start": 58.9,
+      "end": 62.58
+    },
+    {
+      "id": 11,
+      "file": "data/hindi_segments_emotional\\segment_011_happy.mp3",
+      "text": "अगर बच्चा खिलौने से खेल रहा है तो उसे अच्छा नहीं लगेगा।",
+      "emotion": "happy",
+      "start": 62.86,
+      "end": 66.76
+    },
+    {
+      "id": 12,
+      "file": "data/hindi_segments_emotional\\segment_012_calm.mp3",
+      "text": "आपको बच्चे को दूध पिलाना होगा और उसे आराम करने के लिए पर्याप्त समय देना होगा।",
+      "emotion": "calm",
+      "start": 67.3,
+      "end": 71.34
+    },
+    {
+      "id": 13,
+      "file": "data/hindi_segments_emotional\\segment_013_instructional.mp3",
+      "text": "इसके बाद आपको बच्चे की मालिश करनी है।",
+      "emotion": "instructional",
+      "start": 71.34,
+      "end": 73.46
+    },
+    {
+      "id": 14,
+      "file": "data/hindi_segments_emotional\\segment_014_happy.mp3",
+      "text": "अगर बच्चा खिलौने से खेल रहा है तो उसे अच्छा नहीं लगेगा।",
+      "emotion": "happy",
+      "start": 73.46,
+      "end": 78.4
+    },
+    {
+      "id": 15,
+      "file": "data/hindi_segments_emotional\\segment_015_instructional.mp3",
+      "text": "इसके बाद आपको बच्चे की मालिश करनी है।",
+      "emotion": "instructional",
+      "start": 78.4,
+      "end": 81.96
+    },
+    {
+      "id": 16,
+      "file": "data/hindi_segments_emotional\\segment_016_instructional.mp3",
+      "text": "अगर आप नहाने से 15 मिनट पहले मालिश शुरू करती हैं तो आप बच्चे के आराम करने का इंतजार कर सकती हैं।",
+      "emotion": "instructional",
+      "start": 81.96,
+      "end": 91.26
+    },
+    {
+      "id": 17,
+      "file": "data/hindi_segments_emotional\\segment_017_instructional.mp3",
+      "text": "तो फिर आपको यह जानना होगा कि शिशु मालिश का पालन कैसे करेगा।",
+      "emotion": "instructional",
+      "start": 92.36,
+      "end": 97.06
+    },
+    {
+      "id": 18,
+      "file": "data/hindi_segments_emotional\\segment_018_neutral.mp3",
+      "text": "कुछ लोग सिर से पैर तक शुरू करते हैं और कुछ लोग पैर से शुरू करते हैं।",
+      "emotion": "neutral",
+      "start": 97.2,
+      "end": 104.72
+    },
+    {
+      "id": 19,
+      "file": "data/hindi_segments_emotional\\segment_019_neutral.mp3",
+      "text": "इसलिए आपको बच्चे की बात सुननी होगी और मालिश का पालन करें।",
+      "emotion": "neutral",
+      "start": 106.39999999999999,
+      "end": 110.6
+    },
+    {
+      "id": 20,
+      "file": "data/hindi_segments_emotional\\segment_020_neutral.mp3",
+      "text": "गर्मियों में आपको कम तेल का उपयोग करें और अन्य मौसमों में आपको कम तेल का उपयोग करें।",
+      "emotion": "neutral",
+      "start": 111.16,
+      "end": 120.44
+    },
+    {
+      "id": 21,
+      "file": "data/hindi_segments_emotional\\segment_021_instructional.mp3",
+      "text": "अब आपको बच्चे की अंदर से बाहर तक मालिश करनी है।",
+      "emotion": "instructional",
+      "start": 121.44,
+      "end": 126.8
+    },
+    {
+      "id": 22,
+      "file": "data/hindi_segments_emotional\\segment_022_concerned.mp3",
+      "text": "बच्चे पर ज्यादा दबाव न डालें.",
+      "emotion": "concerned",
+      "start": 127.72,
+      "end": 131.24
+    },
+    {
+      "id": 23,
+      "file": "data/hindi_segments_emotional\\segment_023_calm.mp3",
+      "text": "सिर से शुरू करके पैर तक धीरे-धीरे सिर की मालिश करें।",
+      "emotion": "calm",
+      "start": 131.72,
+      "end": 138.14
+    },
+    {
+      "id": 24,
+      "file": "data/hindi_segments_emotional\\segment_024_instructional.mp3",
+      "text": "इसके बाद आपको कम से कम 2-3 मिनट तक बच्चे की मालिश करनी है।",
+      "emotion": "instructional",
+      "start": 139.18,
+      "end": 144.38
+    },
+    {
+      "id": 25,
+      "file": "data/hindi_segments_emotional\\segment_025_neutral.mp3",
+      "text": "मैं तुम्हें थोड़ी देर में मसाज दिखाऊंगा.",
+      "emotion": "neutral",
+      "start": 144.56,
+      "end": 147.5
+    },
+    {
+      "id": 26,
+      "file": "data/hindi_segments_emotional\\segment_026_calm.mp3",
+      "text": "आपको बच्चे को आराम करने और मालिश करने के लिए पर्याप्त समय देना होगा।",
+      "emotion": "calm",
+      "start": 147.5,
+      "end": 158.38
+    },
+    {
+      "id": 27,
+      "file": "data/hindi_segments_emotional\\segment_027_instructional.mp3",
+      "text": "फिर सिर की मालिश करें.",
+      "emotion": "instructional",
+      "start": 160.5,
+      "end": 165.18
+    },
+    {
+      "id": 28,
+      "file": "data/hindi_segments_emotional\\segment_028_instructional.mp3",
+      "text": "अब छाती की मालिश करें.",
+      "emotion": "instructional",
+      "start": 169.73999999999998,
+      "end": 171.46
+    },
+    {
+      "id": 29,
+      "file": "data/hindi_segments_emotional\\segment_029_instructional.mp3",
+      "text": "इसके बाद आप छाती की मालिश कर सकते हैं।",
+      "emotion": "instructional",
+      "start": 172.38,
+      "end": 177.96
+    },
+    {
+      "id": 30,
+      "file": "data/hindi_segments_emotional\\segment_030_instructional.mp3",
+      "text": "इसके बाद आपको बाजुओं की मालिश करनी है।",
+      "emotion": "instructional",
+      "start": 178.94,
+      "end": 182.24
+    },
+    {
+      "id": 31,
+      "file": "data/hindi_segments_emotional\\segment_031_instructional.mp3",
+      "text": "बाजुओं की मालिश करें और फिर बच्चे की मालिश करें।",
+      "emotion": "instructional",
+      "start": 182.24,
+      "end": 186.66
+    },
+    {
+      "id": 32,
+      "file": "data/hindi_segments_emotional\\segment_032_instructional.mp3",
+      "text": "अब मैं तुम्हें मसाज दिखाऊंगा.",
+      "emotion": "instructional",
+      "start": 186.66,
+      "end": 189.12
+    },
+    {
+      "id": 33,
+      "file": "data/hindi_segments_emotional\\segment_033_neutral.mp3",
+      "text": "बाहों और पैरों की मालिश करें.",
+      "emotion": "neutral",
+      "start": 199.42,
+      "end": 201.56
+    },
+    {
+      "id": 34,
+      "file": "data/hindi_segments_emotional\\segment_034_neutral.mp3",
+      "text": "पैरों और टाँगों की मालिश करें।",
+      "emotion": "neutral",
+      "start": 206.17999999999998,
+      "end": 210.74
+    },
+    {
+      "id": 35,
+      "file": "data/hindi_segments_emotional\\segment_035_neutral.mp3",
+      "text": "पैरों और टाँगों की मालिश करें।",
+      "emotion": "neutral",
+      "start": 210.74,
+      "end": 212.76
+    },
+    {
+      "id": 36,
+      "file": "data/hindi_segments_emotional\\segment_036_neutral.mp3",
+      "text": "पैरों और टाँगों की मालिश करें।",
+      "emotion": "neutral",
+      "start": 214.96,
+      "end": 216.08
+    },
+    {
+      "id": 37,
+      "file": "data/hindi_segments_emotional\\segment_037_instructional.mp3",
+      "text": "इसके बाद पेट की मालिश करें.",
+      "emotion": "instructional",
+      "start": 216.08,
+      "end": 218.88
+    },
+    {
+      "id": 38,
+      "file": "data/hindi_segments_emotional\\segment_038_neutral.mp3",
+      "text": "यदि आपके छोटे बच्चे हैं, तो आप पेट की मालिश कर सकते हैं।",
+      "emotion": "neutral",
+      "start": 220.1,
+      "end": 227.38
+    },
+    {
+      "id": 39,
+      "file": "data/hindi_segments_emotional\\segment_039_neutral.mp3",
+      "text": "आप पेट की मालिश कर सकते हैं और पेट की मालिश कर सकते हैं।",
+      "emotion": "neutral",
+      "start": 227.38,
+      "end": 230.78
+    },
+    {
+      "id": 40,
+      "file": "data/hindi_segments_emotional\\segment_040_neutral.mp3",
+      "text": "यदि आपके छोटे बच्चे हैं, तो आप पेट की मालिश कर सकते हैं।",
+      "emotion": "neutral",
+      "start": 232.96,
+      "end": 237.16
+    },
+    {
+      "id": 41,
+      "file": "data/hindi_segments_emotional\\segment_041_instructional.mp3",
+      "text": "इसके बाद आप पेट की मालिश कर सकते हैं।",
+      "emotion": "instructional",
+      "start": 237.16,
+      "end": 242.54
+    },
+    {
+      "id": 42,
+      "file": "data/hindi_segments_emotional\\segment_042_instructional.mp3",
+      "text": "इसके बाद आप पेट की मालिश कर सकते हैं।",
+      "emotion": "instructional",
+      "start": 243.6,
+      "end": 244.22
+    },
+    {
+      "id": 43,
+      "file": "data/hindi_segments_emotional\\segment_043_instructional.mp3",
+      "text": "अब आपको कम से कम 15 मिनट तक पेट की मालिश करनी है।",
+      "emotion": "instructional",
+      "start": 244.24,
+      "end": 252.48
+    },
+    {
+      "id": 44,
+      "file": "data/hindi_segments_emotional\\segment_044_neutral.mp3",
+      "text": "अगर आप कम समय तक पेट की मालिश करेंगे तो फायदा नहीं होगा।",
+      "emotion": "neutral",
+      "start": 253.52,
+      "end": 256.74
+    },
+    {
+      "id": 45,
+      "file": "data/hindi_segments_emotional\\segment_045_concerned.mp3",
+      "text": "आधे घंटे से ज्यादा पेट की मालिश न करें।",
+      "emotion": "concerned",
+      "start": 256.98,
+      "end": 259.86
+    },
+    {
+      "id": 46,
+      "file": "data/hindi_segments_emotional\\segment_046_neutral.mp3",
+      "text": "पेट की मालिश करें.",
+      "emotion": "neutral",
+      "start": 262.1,
+      "end": 263.5
+    },
+    {
+      "id": 47,
+      "file": "data/hindi_segments_emotional\\segment_047_neutral.mp3",
+      "text": "आपको लंबी अवधि में बेहतर परिणाम नहीं मिलेंगे।",
+      "emotion": "neutral",
+      "start": 264.71999999999997,
+      "end": 271.48
+    },
+    {
+      "id": 48,
+      "file": "data/hindi_segments_emotional\\segment_048_happy.mp3",
+      "text": "मैं और भी कई बार डराता हूँ जब आपको दरांती से भी अच्छे परिणाम मिलते हैं।",
+      "emotion": "happy",
+      "start": 272.06,
+      "end": 274.6
+    },
+    {
+      "id": 49,
+      "file": "data/hindi_segments_emotional\\segment_049_serious.mp3",
+      "text": "बहुत सावधानी और बहुत धैर्य के साथ मालिश करें।",
+      "emotion": "serious",
+      "start": 274.6,
+      "end": 276.22
+    },
+    {
+      "id": 50,
+      "file": "data/hindi_segments_emotional\\segment_050_neutral.mp3",
+      "text": "इससे बच्चे की परिपक्वता में भी मदद मिलेगी.",
+      "emotion": "neutral",
+      "start": 277.34,
+      "end": 278.92
+    },
+    {
+      "id": 51,
+      "file": "data/hindi_segments_emotional\\segment_051_neutral.mp3",
+      "text": "इस तरह से मैं पेट की मालिश करता हूं जो आपने पिछले वीडियो में भी देखा था।",
+      "emotion": "neutral",
+      "start": 283.26,
+      "end": 285.74
+    },
+    {
+      "id": 52,
+      "file": "data/hindi_segments_emotional\\segment_052_instructional.mp3",
+      "text": "अब आप सभी ने मुझे बता दिया है कि पेट की मालिश कैसे करनी है।",
+      "emotion": "instructional",
+      "start": 287.96,
+      "end": 289.28
+    },
+    {
+      "id": 53,
+      "file": "data/hindi_segments_emotional\\segment_053_neutral.mp3",
+      "text": "तुम्हें क्या करना है",
+      "emotion": "neutral",
+      "start": 289.28,
+      "end": 292.16
+    },
+    {
+      "id": 54,
+      "file": "data/hindi_segments_emotional\\segment_054_neutral.mp3",
+      "text": "आपको एक वीडियो बनाना होगा और हमारे साथ साझा करें",
+      "emotion": "neutral",
+      "start": 292.16,
+      "end": 293.96
+    },
+    {
+      "id": 55,
+      "file": "data/hindi_segments_emotional\\segment_055_instructional.mp3",
+      "text": "उस वीडियो में आपको जो जानना है वह है",
+      "emotion": "instructional",
+      "start": 293.96,
+      "end": 295.92
+    },
+    {
+      "id": 56,
+      "file": "data/hindi_segments_emotional\\segment_056_neutral.mp3",
+      "text": "आप मालिश कैसे करते हैं",
+      "emotion": "neutral",
+      "start": 295.92,
+      "end": 297.28
+    },
+    {
+      "id": 57,
+      "file": "data/hindi_segments_emotional\\segment_057_neutral.mp3",
+      "text": "तो आपको अपने घर में एक दीपक जरूर रखना होगा",
+      "emotion": "neutral",
+      "start": 298.48,
+      "end": 301.62
+    },
+    {
+      "id": 58,
+      "file": "data/hindi_segments_emotional\\segment_058_neutral.mp3",
+      "text": "और तुम्हें एक स्ट्रोक लगाना होगा",
+      "emotion": "neutral",
+      "start": 301.62,
+      "end": 303.94
+    },
+    {
+      "id": 59,
+      "file": "data/hindi_segments_emotional\\segment_059_neutral.mp3",
+      "text": "एक क",
+      "emotion": "neutral",
+      "start": 303.94,
+      "end": 307.64
+    },
+    {
+      "id": 60,
+      "file": "data/hindi_segments_emotional\\segment_060_neutral.mp3",
+      "text": "आपको इसे रिकॉर्ड करें",
+      "emotion": "neutral",
+      "start": 307.64,
+      "end": 312.12
+    },
+    {
+      "id": 61,
+      "file": "data/hindi_segments_emotional\\segment_061_concerned.mp3",
+      "text": "आपको तेल का उपयोग करने की आवश्यकता नहीं है",
+      "emotion": "concerned",
+      "start": 313.28,
+      "end": 314.4
+    },
+    {
+      "id": 62,
+      "file": "data/hindi_segments_emotional\\segment_062_concerned.mp3",
+      "text": "आपको तेल का उपयोग करने की आवश्यकता नहीं है",
+      "emotion": "concerned",
+      "start": 314.4,
+      "end": 315.42
+    },
+    {
+      "id": 63,
+      "file": "data/hindi_segments_emotional\\segment_063_neutral.mp3",
+      "text": "लेकिन आपको इसे आगे और पीछे से करें",
+      "emotion": "neutral",
+      "start": 315.42,
+      "end": 318.22
+    },
+    {
+      "id": 64,
+      "file": "data/hindi_segments_emotional\\segment_064_curious.mp3",
+      "text": "आप लैंप के पिछले भाग की मालिश कैसे करते हैं?",
+      "emotion": "curious",
+      "start": 318.22,
+      "end": 322.6
+    },
+    {
+      "id": 65,
+      "file": "data/hindi_segments_emotional\\segment_065_neutral.mp3",
+      "text": "एक साफ़ सुथरा वीडियो बनायें",
+      "emotion": "neutral",
+      "start": 323.4,
+      "end": 326.26
+    },
+    {
+      "id": 66,
+      "file": "data/hindi_segments_emotional\\segment_066_neutral.mp3",
+      "text": "और इसे हमारे साथ साझा करें",
+      "emotion": "neutral",
+      "start": 326.26,
+      "end": 327.54
+    },
+    {
+      "id": 67,
+      "file": "data/hindi_segments_emotional\\segment_067_neutral.mp3",
+      "text": "आप सुबह क्या करते हैं",
+      "emotion": "neutral",
+      "start": 327.54,
+      "end": 330.12
+    }
+  ]
+}
