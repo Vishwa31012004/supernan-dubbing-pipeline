@@ -1,9 +1,0 @@
-openai-whisper==20231117
-googletrans==4.0.0rc1
-elevenlabs==2.36.0
-pydub==0.25.1
-python-dotenv==1.0.0
-httpx==0.24.1
-numpy==1.24.3
-torch==2.0.1
-torchaudio==2.0.2
