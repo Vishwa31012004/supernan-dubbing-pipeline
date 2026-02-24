@@ -41,3 +41,13 @@ Wav2Lip_Colab_Notebook.txt
 
 # Keep small JSON files
 !data/*.json
+
+Changes to be committed:
+  new file:   .env.example
+  modified:   .gitignore
+  deleted:    test_edge_voices.py
+  deleted:    test_elevenlabs.py
+  deleted:    test_faster_whisper.py
+  deleted:    test_gemini_key.py
+  deleted:    test_kannada.py
+  deleted:    choco
